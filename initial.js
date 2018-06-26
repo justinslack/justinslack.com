@@ -1,1 +1,1 @@
-if (navigator.serviceWorker){navigator.serviceWorker.register('/service-worker.js').then(function(registration){console.log('Service worker started', registration.scope);}).catch(function(error){console.error('Service worker failed', error);});}
+if (navigator.serviceWorker){navigator.serviceWorker.register('../service-worker.js').then(function(registration){console.log('Service worker started', registration.scope);}).catch(function(error){console.error('Service worker failed', error);});}
