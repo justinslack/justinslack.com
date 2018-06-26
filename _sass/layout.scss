@@ -1,0 +1,77 @@
+// Layout
+//
+// Styles for managing the structural hierarchy of the site.
+
+.site-title {
+  @include rem('margin', 20px 0);
+  width: 15%;
+  display: block;
+}
+
+.main {
+  max-width: 60em;
+  padding-left:  1.5rem;
+  padding-right: 1.5rem;
+  margin-left:  auto;
+  margin-right: auto;
+}
+
+// Flexbox for portfolio
+
+.featured-portfolio-item {
+  display: flex;
+  flex-wrap:wrap;
+  justify-content: space-between;
+}
+
+.portfolio-item {
+  flex: 1;
+
+  @include breakpoint(33.188em) {
+    @include rem('margin', 0 20px 0 0);
+
+    &:nth-of-type(2n) {
+      @include rem('margin', 0 0 0 20px);
+    }
+  }
+
+  img {
+    border: 10px solid #ea608a;
+  }
+
+}
+
+.portfolio-meta {
+  @include rem('margin', 10px 0 0);
+  font-family: 'Source Sans Pro';
+  text-transform: uppercase;
+  span {
+    color: lighten(black, 70%);
+  }
+}
+
+.portfolio-title {
+  @include font-size(38);
+  a {
+    position: relative;
+    display: inline-block;
+    outline: none;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 400;
+    text-shadow: 0 0 1px rgba(255,255,255,0.3);
+    padding: 10px 0;
+    color: #3383b3;
+    font-weight: 700;
+    text-shadow: none;
+    -webkit-transition: color 0.3s;
+    -moz-transition: color 0.3s;
+    transition: color 0.3s;
+  }
+
+}
+
+footer {
+  margin-bottom: 2rem;
+}

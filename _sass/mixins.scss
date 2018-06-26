@@ -1,0 +1,136 @@
+// Mixins ========================================================================================
+
+// micro clearfix hack
+
+%clearfix {
+  zoom: 1;
+  &:before, &:after { content: ""; display: table; }
+  &:after { clear: both; }
+}
+
+// border-box mixin
+
+@mixin border-box {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+// Breakpoints
+
+@mixin breakpoint($size) {
+  @media only screen and (min-width: $size) {
+    @content;
+  }
+}
+
+//Transitions
+
+@mixin transition($transition-property, $transition-time, $method) {
+  -webkit-transition: $transition-property $transition-time $method;
+     -moz-transition: $transition-property $transition-time $method;
+      -ms-transition: $transition-property $transition-time $method;
+       -o-transition: $transition-property $transition-time $method;
+          transition: $transition-property $transition-time $method;
+}
+
+/*---- REM fallbacks ----*/
+
+//Set up a variable for calculation
+$doc-font-size: 16;
+
+// the font-size mixin
+@mixin font-size($size) {
+  font-size: 0px + $size;
+  font-size: 0rem + $size / $doc-font-size;
+}
+// usage @include font-size(16);
+
+/*---Convert px to rem for measurements----*/
+
+$baseline-px: 16px;
+@mixin rem($property, $px-values) {
+
+  // Convert the baseline into rems
+  $baseline-rem: $baseline-px / 1rem;
+
+  // Print the first line in pixel values
+  #{$property}: $px-values;
+
+  // If there is only one (numeric) value, return the property/value line for it.
+  @if type-of($px-values) == "number" {
+    #{$property}: $px-values / $baseline-rem; }
+    @else {
+
+  // Create an empty list that we can dump values into
+  $rem-values: unquote("");
+  @each $value in $px-values {
+
+  // If the value is zero or a string or a color, return unchanged input
+  @if $value == 0 or type-of($value) == "string" or type-of($value) == "color" {
+    $rem-values: append($rem-values, $value); }
+    @else {
+      $rem-values: append($rem-values, $value / $baseline-rem); } }
+
+  // Return the property and its list of converted values
+  #{$property}: $rem-values; }
+}
+// useage @include rem('padding', 16px 0 0 0);
+
+%contentBulletList {
+  list-style: none;
+
+  & > li {
+    &:before {
+        content: "\25CF";
+        margin: 0 10px 0 -21px;
+        color: #f75d5d;
+    }
+  }
+}
+
+// Centering
+
+@mixin centerBlock {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+//Responsive video
+
+@mixin maintain-ratio($ratio: 1 1) {
+  @if length($ratio) < 2 or length($ratio) > 2 {
+  @warn "$ratio must be a list with two values.";
+  }
+
+  $width: 100%;
+  $height: percentage(nth($ratio, 2) / nth($ratio, 1));
+  width: $width;
+  height: 0;
+  padding-bottom: $height;
+  position: relative;
+}
+
+@mixin bottom-shadow {
+  box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.2);
+}
+
+//Flexbox
+@mixin flexAlign($pack, $align){
+  display: -ms-flexbox;
+  -ms-flex-pack: center;
+  -ms-flex-align: center;
+
+  display: -webkit-box;
+  -webkit-box-pack: $pack;
+  -webkit-box-align: $align;
+
+  display: -moz-box;
+  -moz-box-pack: $pack;
+  -moz-box-align: $align;
+
+  display: box;
+  box-pack: $pack;
+  box-align: $align;
+}

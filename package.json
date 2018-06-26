@@ -1,0 +1,14 @@
+{
+  "name": "justinslack",
+  "version": "3.0.0",
+  "private": true,
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-htmlmin": "^0.6.0",
+    "grunt-contrib-imagemin": "~0.5.0",
+    "grunt-contrib-uglify": "~0.3.2",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-svgmin": "^2.0.1"
+  }
+}
