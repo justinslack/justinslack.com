@@ -1,0 +1,105 @@
+.button {
+  @include font-size(12);
+  @include rem(min-width, 90px);
+  @include rem('padding', 5px 15px);
+  @include transition(all, .25s, ease-in-out);
+  background-color: $celestial-blue;
+  border-radius: 15px;
+  border: 0;
+  color: #fff;
+  display: inline-block;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+
+  &.warning-button {
+    background-color: $warning;
+
+    &:hover, &:focus {
+      background-color: darken($warning, 5%);
+    }
+
+  }
+
+  &.alert-button {
+    background-color: $alert;
+
+    &:hover, &:focus {
+      background-color: darken($alert, 10%);
+    }
+
+  }
+
+  &.success-button {
+    background-color: $success;
+
+    &:hover, &:focus {
+      background-color: darken($success, 10%);
+    }
+
+  }
+
+  &:hover, &:focus, &:active {
+    background: darken($celestial-blue, 10%);
+    color: $white;
+  }
+
+
+
+  &:focus {
+    outline: 1px dotted black;
+  }
+
+  &[disabled] {
+    background-color: $lightest-grey;
+    color: $light-grey;
+    cursor: not-allowed;
+  }
+
+  // special gradient buttons
+  &.take-over {
+    background : linear-gradient(90deg, rgba(204, 224, 244, 1) 0%, rgba(208, 215, 237, 1) 0%, rgba(218, 189, 218, 1) 0%, rgba(235, 148, 188, 1) 0%, rgba(255, 98, 151, 1) 0%, rgba(255, 133, 129, 1) 51.79%, rgba(255, 156, 113, 1) 99.44%);
+    transition: none;
+
+      &:hover, &:focus, , &:active {
+        background: rgba(255, 133, 129, 1);
+      }
+
+  }
+
+  &.follow-up {
+     background : linear-gradient(90deg, rgba(204, 224, 244, 1) 0%, rgba(195, 222, 240, 1) 0%, rgba(169, 215, 229, 1) 0%, rgba(128, 205, 210, 1) 0%, rgba(80, 193, 189, 1) 0%, rgba(49, 207, 169, 1) 51.76%, rgba(55, 214, 163, 1) 99.44%);
+     transition: none;
+
+     &:hover, &:focus, , &:active {
+        background: rgba(55, 214, 163, 1);
+      }
+
+  }
+
+  &.resolved {
+     background : linear-gradient(90deg, rgba(204, 224, 244, 1) 0%, rgba(195, 221, 245, 1) 0%, rgba(169, 213, 246, 1) 0%, rgba(128, 200, 248, 1) 0%, rgba(84, 186, 251, 1) 0%, rgba(81, 169, 253, 1) 70.69%, rgba(77, 146, 255, 1) 99.44%);
+     transition: none;
+
+     &:hover, &:focus, , &:active {
+        background: rgba(81, 169, 253, 1);
+      }
+
+  }
+
+}
+
+// unstyled
+
+.unstyled-button {
+  background-color: transparent;
+  border: 0;
+
+  &:hover, &:focus {
+    background-color: transparent;
+    outline: none;
+  }
+
+}

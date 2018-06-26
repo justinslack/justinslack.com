@@ -1,0 +1,24 @@
+	{% include styleguide/head.html %}
+
+	<body>
+
+		{% include styleguide/side-nav.html %}
+
+		<section class="main">
+			<div class="page-header">
+				<h2>{% if page.category %}{{ page.category }}{% else %}{{ site.title }}{% endif %}</h2>
+				<h3>{{ page.title }}</h3>
+			</div>
+			<article class="content">
+				{{ content }}
+			</article>
+		</section>
+
+		<script>
+			document.getElementById("open-nav").addEventListener("click", function () {
+				document.body.classList.toggle("nav-open");
+			});
+		</script>
+
+	</body>
+</html>

@@ -1,0 +1,99 @@
+{% include styleguide/head.html %}
+
+	<body>
+
+		{% include styleguide/side-nav.html %}
+
+		<section class="main">
+			<div class="page-header">
+				<h2>{% if page.category %}{{ page.category }}{% else %}{{ site.title }}{% endif %}</h2>
+				<h3 id="guide-{{ page.title | slugify }}">{{ page.title }}</h3>
+
+				<ul class="component-meta">
+
+					{% if page.usage %}
+						<li>	<strong>Usage:</strong> {{ page.usage }}</li>
+					{% endif %}
+
+				{% if page.scss %}
+					<li>
+						<strong>SCSS partial (repo):</strong>
+						<a target="_blank" href="https://bitbucket.org/newmedialabs{{ site.repository | prepend: '/' | append: '/src/master/design/_sass/' }}{{ page.scss }}?at=master&amp;fileviewer=file-view-default">{{ page.scss }} on {{site.repo-host}}
+						</a>
+					</li>
+				{% endif %}
+
+				{% if page.scss %}
+					<li><strong>SCSS partial (local):</strong> design/_sass/{{ page.scss }}</li>
+				{% endif %}
+				</ul>
+
+				<hr class="less-space">
+
+			</div>
+			<article class="content">
+
+				{{ content }}
+
+			</article>
+		</section>
+
+		<script>
+			document.getElementById("open-nav").addEventListener("click", function () {
+				document.body.classList.toggle("nav-open");
+			});
+		</script>
+		<script src="{{ site.baseurl }}/scripts/app.js"></script>
+		<script src="{{ site.baseurl }}/scripts/clipboard.js"></script>
+		<script>
+			$('a[href*="templates"]').click(function() {
+    		$(this).attr('target', '_blank');
+			});
+
+
+		  $('.top-level span').on("click",function(){
+		  	$(this).toggleClass("nav-open");
+		    $(this).next("ul").toggle();
+		  });
+
+		</script>
+		<script>
+			(function(){
+
+				var pre = document.getElementsByTagName('pre');
+
+				for (var i = 0; i < pre.length; i++) {
+					var isLanguage = pre[i].children[0].className.indexOf('language-');
+
+					if ( isLanguage === 0 ) {
+						var button           = document.createElement('button');
+								button.className = 'copy-button';
+								button.textContent = 'Copy';
+
+								pre[i].appendChild(button);
+					}
+				};
+
+				// Run Clipboard
+
+				var copyCode = new Clipboard('.copy-button', {
+					target: function(trigger) {
+						return trigger.previousElementSibling;
+			    }
+				});
+
+				// On success:
+
+				copyCode.on('success', function(event) {
+					event.clearSelection();
+					event.trigger.textContent = 'Copied';
+					window.setTimeout(function() {
+						event.trigger.textContent = 'Copy';
+					}, 2000);
+
+				});
+
+			})();
+		</script>
+	</body>
+</html>

@@ -1,0 +1,81 @@
+table {
+  background-color: $lightest-grey;
+	border-collapse: separate;
+  border: 1px solid $bg-grey;
+  border-radius: 4px;
+  box-shadow: 0 0.125em 2em rgba(32, 35, 37, 0.1);
+  font-size: 0.875em;
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: 'tnum';
+  margin: 2rem 0;
+  width: 100%;
+
+  &.fixed-layout {
+    table-layout: fixed;
+  }
+
+}
+
+.table-caption {
+  font-size: 1.25em;
+  font-weight: 700;
+  margin-bottom: 1em;
+  text-align: left;
+}
+
+th {
+  text-align: left;
+}
+
+th, td {
+  padding: 1.2em;
+  border-bottom: 1px solid $bg-grey;
+}
+
+td {
+  background-color: white;
+}
+
+tfoot {
+
+  td {
+    &:first-of-type {
+      border-radius: 0 0 4px 4px;
+    }
+  }
+
+}
+
+.with-pagination {
+  text-align: right;
+}
+
+// Filtering
+
+.filter-row {
+  background-color: $celestial-blue;
+  border-radius: 4px 4px 0 0;
+}
+
+// Specific table styles
+
+.chat-history-table {
+
+}
+
+.date {
+  width: 12%;
+}
+.time {
+  width: 8%;
+}
+.duration {
+  width: 10%;
+}
+.message-excerpt {
+  width: 50%;
+}
+.status {
+  width: 10%;
+}
+

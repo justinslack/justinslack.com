@@ -1,0 +1,72 @@
+# ----
+# Site
+
+title: NML
+subtitle: Style guide
+url:
+baseurl:
+# baseurl: http://test.newmedialabs.co.za/atura-styleguide/
+show_full_navigation: true
+repository:
+repo-host: Bitbucket
+
+# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
+logo: /siteicon.png
+description: Jekyll starter for styleguide
+author:
+  name: Justin Slack
+  email: justin@nml.co.za
+
+# -----
+# Build
+
+include: ["_pages"]
+
+permalink: pretty
+
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENCE
+
+sass:
+  style: compressed
+  sourcemap: true
+
+collections:
+  components:
+    title: Components
+    permalink: /:collection/:path/
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+  -
+    scope:
+      path: ""
+      type: "components"
+    values:
+      layout: styles
+      seo:
+        type: Article
+      _comments:
+        category: Group navigation links with this field
+        order: Used to sort links in the navigation
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      _comments:
+        type: Marks the impact of this release
+
