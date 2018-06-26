@@ -20,7 +20,7 @@ author:
 # -----
 # Build
 
-include: ["_pages"]
+include: ["_pages", "_headers"]
 
 permalink: pretty
 
