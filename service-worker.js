@@ -11,7 +11,7 @@ const cacheList = [
 ];
 
 const offlinePages = [
-  '/index.html'
+  '/'
 ];
 
 function updateStaticCache() {
