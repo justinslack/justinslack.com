@@ -2,7 +2,7 @@
   "name": "Justin Slack",
   "short_name": "Justin Slack",
   "lang": "en-GB",
-  "start_url": "https://justinslack.com/",
+  "start_url": "/",
   "display": "standalone",
   "theme_color": "#ffffff",
   "icons": [
