@@ -2,4 +2,4 @@
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block
   X-Content-Type-Options: nosniff
-  Content-Security-Policy: default-src 'none'; object-src 'none'; img-src 'self'; script-src 'self'; style-src 'unsafe-inline'; font-src 'self'; manifest-src 'self'; connect-src 'self'; worker-src 'self'; 'sha256-8Y6meA5AtvdM/9H/1NGOYpU3Yn4RclISdX31sDnOzis=';
+  Content-Security-Policy: default-src 'self'; object-src 'none'; img-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'unsafe-inline'; font-src 'self'; manifest-src 'self'; connect-src 'self'; worker-src 'self';
