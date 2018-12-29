@@ -18,8 +18,8 @@ function updateStaticCache() {
   return caches.open(staticCacheName)
   .then( cache => {
     cache.addAll([
-      // 'fonts/source-sans-pro-v11-latin-regular.woff2',
-      // 'fonts/source-sans-pro-v11-latin-600.woff2'
+      '/fonts/SourceSansVariable-Roman.otf.woff2',
+      '/fonts/SourceSansVariable-Roman.ttf.woff2'
       ].concat(offlinePages));
       return cache.addAll([
         '/'

@@ -1,4 +1,15 @@
 @font-face {
+  font-family: 'Schnyder M Web';
+  src: url('../fonts/SchnyderM-Demi-Web.woff2') format('woff2'),
+       url('../fonts/SchnyderM-Demi-Web.woff') format('woff');
+  font-weight:  400;
+  font-style:   normal;
+  font-stretch: normal;
+  font-display: swap;
+}
+
+
+@font-face {
   font-family: 'Source Sans VF';
   src: url('../fonts/SourceSansVariable-Roman.otf.woff2') format('woff2-variations'),
        url('../fonts/SourceSansVariable-Roman.otf.woff2') format('woff2'),
@@ -6,4 +17,5 @@
        url('../fonts/SourceSansVariable-Roman.otf.woff2') format('woff'),
        url('../fonts/SourceSansVariable-Roman.ttf.woff2') format('truetype-variations'),
        url('../fonts/SourceSansVariable-Roman.ttf.woff2') format('truetype');
+  font-display: swap;
 }

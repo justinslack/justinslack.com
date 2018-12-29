@@ -1,4 +1,4 @@
-// Home page
+/*// Home page*/
 
 .main-home {
   display: grid;
@@ -7,14 +7,22 @@
   height: 100vh;
 }
 
-.logo {
+.site-detail {
   grid-row: 2;
   grid-column: 3 / 6;
   z-index: 3;
 }
 
-.home-logo {
-  width: 220px;
+.logo {
+  font-family: 'Schnyder M Web', Georgia, serif;
+  font-weight: 400;
+  font-size: 62px;
+  margin: 0;
+}
+
+.tagline {
+  grid-column: 3 / 6;
+  grid-row: 3;
 }
 
 .right-line {
