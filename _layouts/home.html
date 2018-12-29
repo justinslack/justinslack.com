@@ -16,6 +16,14 @@ layout: compress
       <div class="color-block"></div>
       <div class="border-block"></div>
     </section>
-
+     <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/service-worker.js', { scope: '/' }).then(function(reg) {
+        console.log('Registration succeeded. Scope is ' + reg.scope);
+      }).catch(function(error) {
+        console.log('Registration failed with ' + error);
+      });
+    };
+  </script>
   </body>
 </html>
