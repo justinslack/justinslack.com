@@ -9,48 +9,70 @@ html {
 }
 
 body {
-  // background-color: #f7f7f7;
+  // background-image: linear-gradient(to right bottom, #5e0036, #56053f, #4b0d47, #3d144e, #2c1a53, #201b51, #121c4e, #001c4a, #001941, #001637, #01122e, #000d25);
   color: $base-color;
-  font-family: $base-font-family;
+  font-family: "Source Sans VF";
   font-size: 100%;
   font-weight: 400;
   height: 100%;
   letter-spacing: 0.01rem;
-  line-height: $line-height;
+  // line-height: $line-height;
   max-height: 100%;
-}
-
-a {
-  color: $celestial-blue;
-
-  &:hover {
-    color: $midnight-blue;
-  }
-
 }
 
 img {
   max-width: 100%;
 }
 
-// Layout items for grid amendments
+// Home page
 
-.container {
-  @extend %clearfix;
+.main-home {
+  display: grid;
+  grid-template-rows: 100px 230px 100px;
+  grid-template-columns: 150px 60px 137px 150px 1fr 1fr 150px;
+  height: 100vh;
 }
 
-.content-area {
-  @include rem(max-width, 1320px);
-  margin: 0 auto;
+.logo {
+  grid-row: 2;
+  grid-column: 3 / 6;
+  z-index: 3;
 }
 
-// Overlay
+.home-logo {
+  width: 220px;
+}
 
-.overlay {
-  background-color: rgba(0, 0, 0, 0.8);
+.right-line {
+  grid-row: 2;
+  grid-column: 2;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+
+  span {
+    display: block;
+  }
+
+}
+
+.color-block {
   height: 100%;
-  left: 0;
-  position: fixed;
-  top: 0;
   width: 100%;
+  grid-row: 2;
+  grid-column: 4 / 5;
+  background-color: $black-pearl;
+  z-index: 2;
+}
+
+.border-block {
+  height: 80%;
+  width: 80%;
+  grid-row: 2;
+  grid-column: 4 / 5;
+  background-color: $eggplant;
+  z-index: 1;
+  position: relative;
+  right: -35px;
+  top: -5px;
 }
