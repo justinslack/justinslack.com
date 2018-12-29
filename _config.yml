@@ -11,7 +11,7 @@ repo-host: Bitbucket
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Justin SLack personal web site
+description: Justin Slack personal web site
 author:
   name: Justin Slack
   email: justin@jusitnslak.com
