@@ -1,8 +1,11 @@
-  {% include styleguide/head.html %}
+---
+layout: compress
+---
+
+  {% include header.html %}
 
   <body>
 
-    {% include styleguide/side-nav.html %}
 
     <section class="main">
       <div class="page-header">
@@ -13,12 +16,6 @@
         {{ content }}
       </article>
     </section>
-
-    <script>
-      document.getElementById("open-nav").addEventListener("click", function () {
-        document.body.classList.toggle("nav-open");
-      });
-    </script>
 
   </body>
 </html>

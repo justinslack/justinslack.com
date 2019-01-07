@@ -9,48 +9,16 @@ html {
 }
 
 body {
-  // background-color: #f7f7f7;
   color: $base-color;
-  font-family: $base-font-family;
+  font-family: $base-font;
   font-size: 100%;
   font-weight: 400;
   height: 100%;
   letter-spacing: 0.01rem;
-  line-height: $line-height;
+  // line-height: $line-height;
   max-height: 100%;
-}
-
-a {
-  color: $celestial-blue;
-
-  &:hover {
-    color: $midnight-blue;
-  }
-
 }
 
 img {
   max-width: 100%;
-}
-
-// Layout items for grid amendments
-
-.container {
-  @extend %clearfix;
-}
-
-.content-area {
-  @include rem(max-width, 1320px);
-  margin: 0 auto;
-}
-
-// Overlay
-
-.overlay {
-  background-color: rgba(0, 0, 0, 0.8);
-  height: 100%;
-  left: 0;
-  position: fixed;
-  top: 0;
-  width: 100%;
 }

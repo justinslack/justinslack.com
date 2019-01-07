@@ -1,56 +1,17 @@
-/*
-   Color and sizing variables
-   ========================================================================== */
+// Variables ================================================================================
 
-// Variables ===================================================================================== /
+//Main Pallete colours
 
-//Atura colours
-
-$celestial-blue: #4990ca;
-$midnight-blue: #183d66;
-$aquamarine: #51c2be;
-$charcoal: #4d4d4d;
+$eggplant: #9d005a;
+$astronaut: #0e3378;
+$black-pearl: #000c26;
 
 // Variable colours
 
-$medium-aquamarine: #58d2a5;
-$light-crimson: #f56b97;
+$base-color: $black-pearl;
 
 // Fonts
 
-$base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
-$base-color: $charcoal;
+$base-font: 'Source Sans VF',  -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 
-// Errors, warnings, completions
-
-$success: #00B2A9;
-$warning: #F2A900;
-$alert: #D22630;
-
-//Greys
-
-$dark-grey: #485955;
-$medium-grey: #7a7776;
-$light-grey: #9e9a9a;
-$lightest-grey: #f9f9f9;
-$bg-grey: #dedede;
-
-$white: #ffffff;
-$black: #000000;
-
-// Sizing and weights
-$base-font-size: 100%;
-$base-font-weight: 500;
-$line-height: 1.7;
-
-$heading-font-weight: 600;
-$vertical-measure: 1.5em;
-
-//Miscellaneous
-$border-color: #dedede;
-$light-color: lighten($border-color, 50%);
-$background-color: #333;
-$text-color: #0b3143;
-$error-message-color: #d22630;
-$bg-color: #f0f0f0;
-$login-input: $bg-color;
+$header-font: 'Schnyder M Web', Georgia, serif;

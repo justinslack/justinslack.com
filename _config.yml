@@ -1,21 +1,20 @@
 # ----
 # Site
 
-title: NML
-subtitle: Style guide
+title: Jutin Slack
+subtitle: Personal website
 url: "https:/justinslack.com"
 baseurl: ""
-# baseurl: http://test.newmedialabs.co.za/atura-styleguide/
 show_full_navigation: true
 repository:
 repo-host: Bitbucket
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Jekyll starter for styleguide
+description: Justin Slack personal web site
 author:
   name: Justin Slack
-  email: justin@nml.co.za
+  email: justin@jusitnslak.com
 
 # -----
 # Build
