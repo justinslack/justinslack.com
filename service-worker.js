@@ -19,7 +19,8 @@ function updateStaticCache() {
   .then( cache => {
     cache.addAll([
       '/fonts/SourceSansVariable-Roman.otf.woff2',
-      '/fonts/SourceSansVariable-Roman.ttf.woff2'
+      '/fonts/SourceSansVariable-Roman.ttf.woff2',
+      '/fonts/SchnyderM-Demi-Web.woff2'
       ].concat(offlinePages));
       return cache.addAll([
         '/'
