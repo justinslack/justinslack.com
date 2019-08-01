@@ -1,10 +1,10 @@
 ::-moz-selection {
-	// background: $celestial-blue;
+	background: $black-pearl;
 	color: white;
 }
 
 ::selection {
-	// background: $celestial-blue;
+	background: $black-pearl;
 	color: white;
 }
 
@@ -44,9 +44,9 @@ p, ul, ol, table, blockquote {
 }
 
 
-/* Let's make sure all's aligned */
+//  Let's make sure all's aligned
 hr, .hr {
-  // border: 1px solid $border-color;
+  border: 1px solid $border-color;
   margin: -1px 0 2rem;
 }
 b, i, strong, em, small, code {
