@@ -4,7 +4,6 @@
   display: grid;
   grid-template-rows: 100px 230px 100px;
   grid-template-columns: 150px 60px 137px 150px 1fr 1fr 150px;
-  height: 100vh;
 }
 
 .site-detail {
@@ -20,7 +19,7 @@
   color: #9d005a;
   font-family: 'Schnyder M Web', Georgia, serif;
   font-weight: 400;
-  font-size: 62px;
+  font-size: 4em;
   margin: 0;
 }
 
