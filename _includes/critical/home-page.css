@@ -16,11 +16,11 @@
 }
 
 .logo {
-  /*color: #9d005a;*/
   font-family: 'Schnyder M Web', Georgia, serif;
   font-weight: 400;
-  font-size: 6em;
+  font-size: 5em;
   margin: 0;
+  opacity: 0.2;
 }
 
 .tagline {
