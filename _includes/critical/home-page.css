@@ -5,7 +5,13 @@
 }
 
 .home-header {
-  font-size: 6em;
+  font-size: 4em;
+}
+
+@media (min-width: 33.750em) {
+  .home-header {
+    font-size: 6em;
+  }
 }
 
 .home-header-indent {

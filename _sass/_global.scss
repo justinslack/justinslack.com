@@ -17,9 +17,10 @@ body {
   color: $base-color;
   font-family: $base-font;
   font-weight: 400;
+  height: 100vh;
   letter-spacing: 0.01rem;
   line-height: 1.7;
-  height: 100vh;
+  padding: 0 1rem;
 }
 
 a:not(.home-link) {
@@ -46,7 +47,7 @@ img {
 }
 
 .container {
-  @include rem(max-width, 1170px);
+  max-width: 1170px;
   margin: 0 auto;
 }
 
