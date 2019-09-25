@@ -3,11 +3,11 @@
 }
 
 html {
-  background-image: linear-gradient(to bottom, #fde4e0 0%,#fce4e0 9%,#cfd8e1 100%);
-  background-image: linear-gradient(to bottom, #cfd8e1 0%,#fce4e0 91%,#fde4e0 100%);
-  background: linear-gradient(135deg, #cfd8e1 0%,#fce4e0 91%,#fde4e0 100%);
+  // background-image: linear-gradient(to bottom, #fde4e0 0%,#fce4e0 9%,#cfd8e1 100%);
+  // background-image: linear-gradient(to bottom, #cfd8e1 0%,#fce4e0 91%,#fde4e0 100%);
+  // background: linear-gradient(135deg, #cfd8e1 0%,#fce4e0 91%,#fde4e0 100%);
   background: linear-gradient(45deg, #fde4e0 0%,#fce4e0 9%,#cfd8e1 100%);
-  // https://www.colorzilla.com/gradient-editor/#fde4e0+0,fce4e0+9,cfd8e1+100
+  // // https://www.colorzilla.com/gradient-editor/#fde4e0+0,fce4e0+9,cfd8e1+100
 
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -17,8 +17,6 @@ html {
   -webkit-tap-highlight-color: transparent;
   scrollbar-color: green;
   scrollbar-width: thin;
-
-  // @include fluid-type(font-size, $minScreen, $maxScreen, $minFont, $maxFont);
 }
 
 body {
@@ -32,5 +30,35 @@ body {
 
 img {
   max-width: 100%;
+}
+
+
+/*// Home page*/
+
+.main-home {
+  display: grid;
+  /* grid-template-rows: 100px 230px 100px;
+  grid-template-columns: 150px 60px 137px 150px 1fr 1fr 150px; */
+  margin: 0 auto;
+  max-width: 75em;
+}
+
+.site-detail {
+  display: flex;
+  flex-direction: column;
+  grid-row: 2;
+  grid-column: 3 / 6;
+  justify-content: center;
+  z-index: 3;
+}
+
+.logo {
+  font-size: 1.5em;
+  font-weight: 620;
+  margin: 0;
+}
+
+.tagline {
+
 }
 
