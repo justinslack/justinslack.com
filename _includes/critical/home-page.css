@@ -1,4 +1,4 @@
-/*// Home page*/
+/* Home page */
 
 .main-home {
   display: grid;
@@ -16,7 +16,6 @@
 }
 
 .logo {
-  font-family: 'Schnyder M Web', Georgia, serif;
   font-weight: 400;
   font-size: 1em;
   margin: 0;
