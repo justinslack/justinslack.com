@@ -11,13 +11,9 @@
 
 @font-face {
   font-family: 'Source Sans VF';
-  src: url('../fonts/SourceSansVariable-Roman.otf.woff2') format('woff2-variations'),
-       url('../fonts/SourceSansVariable-Roman.otf.woff2') format('woff2'),
-       url('../fonts/SourceSansVariable-Roman.otf.woff2') format('woff-variations'),
-       url('../fonts/SourceSansVariable-Roman.otf.woff2') format('woff'),
-       url('../fonts/SourceSansVariable-Roman.ttf.woff2') format('truetype-variations'),
-       url('../fonts/SourceSansVariable-Roman.ttf.woff2') format('truetype');
+  src: url('../fonts/SourceSansVariable-Roman.otf.woff2') format('woff2-variations');
   font-display: swap;
+  font-weight: 1 999;
 }
 
 

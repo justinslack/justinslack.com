@@ -8,23 +8,14 @@
   <meta name="title" content="This is an example of a title.">
   <meta name="description" content="This is an example of a meta description. This will show up in search results.">
 
-  <link rel="preload" as="font" type="font/woff2" href="" crossorigin>
-  <link rel="preload" as="font" type="font/woff2" href="" crossorigin>
+  <link rel="preload" as="font" type="font/woff2" href="/fonts/SourceSansVariable-Roman.otf.woff2" crossorigin>
+  <link rel="preload" as="font" type="font/woff2" href="/fonts/SchnyderM-Demi-Web.woff2" crossorigin>
 
   <style type="text/css">
     {% capture include_to_scssify %}
       {% include main.scss %}
     {% endcapture %}
     {{ include_to_scssify | scssify }}
-  </style>
-  {% if page.critical %}
-   {% capture critical %}
-    {% include critical/{{ page.critical }} %}
-   {% endcapture %}
-  {% endif %}
-
-  <style>
-    {{ critical }}
   </style>
 
   <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/apple-touch-icon.png">
