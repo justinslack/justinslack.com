@@ -12,3 +12,7 @@
   display: block;
   transform: translateX(1ch);
 }
+
+.lead {
+  max-width: 70ch;
+}

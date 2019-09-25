@@ -22,7 +22,7 @@ body {
   height: 100vh;
 }
 
-a {
+a:not(.home-link) {
   border-bottom: 1px solid $eggplant;
   color: $eggplant;
   display: inline-block;
@@ -62,12 +62,9 @@ img {
   font-weight: 250;
   height: 40px;
   justify-content: center;
+  margin-top: 2rem;
+  text-decoration: none;
   width: 40px;
-
-  &:hover {
-    background-color: transparent;
-    border: 0;
-  }
 }
 
 // .main-nav {
