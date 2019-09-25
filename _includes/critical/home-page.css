@@ -6,20 +6,21 @@
 
 .home-header {
   font-size: 4em;
+  margin: 4rem 0 3rem;
 }
 
 @media (min-width: 33.750em) {
   .home-header {
-    font-size: 6em;
+    font-size: 5.5em;
   }
 
   .home-header-indent {
     display: block;
-    transform: translateX(1ch);
+    /* transform: translateX(1ch); */
   }
 }
 
 .lead {
-  font-size: 1.5em;
+  font-size: 1.2em;
   max-width: 50ch;
 }
