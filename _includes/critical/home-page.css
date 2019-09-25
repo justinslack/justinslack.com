@@ -2,25 +2,13 @@
 
 .main-home {
   display: grid;
-  /* grid-template-rows: 100px 230px 100px;
-  grid-template-columns: 150px 60px 137px 150px 1fr 1fr 150px; */
 }
 
-.site-detail {
-  display: flex;
-  flex-direction: column;
-  grid-row: 2;
-  grid-column: 3 / 6;
-  justify-content: center;
-  z-index: 3;
+.home-header {
+  font-size: 6em;
 }
 
-.logo {
-  font-weight: 400;
-  font-size: 1em;
-  margin: 0;
-}
-
-.tagline {
-
+.home-header-indent {
+  display: block;
+  transform: translateX(1ch);
 }

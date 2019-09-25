@@ -18,9 +18,8 @@ function updateStaticCache() {
   return caches.open(staticCacheName)
   .then( cache => {
     cache.addAll([
-      '/fonts/SourceSansVariable-Roman.otf.woff2',
-      '/fonts/SourceSansVariable-Roman.ttf.woff2',
-      '/fonts/SchnyderM-Demi-Web.woff2'
+      '/fonts/Inter.var.woff2',
+      '/fonts/Inter-italic.var.woff2',
       ].concat(offlinePages));
       return cache.addAll([
         '/'
