@@ -56,14 +56,39 @@ img {
 }
 
 .home-link {
-  display: block;
-  
-  svg {
-    height: 40px;
-    width: 40px;
-  }
+  align-items: center;
+  border: 1px solid $eggplant;
+  display: flex;
+  font-weight: 250;
+  height: 40px;
+  justify-content: center;
+  width: 40px;
 
+  &:hover {
+    background-color: transparent;
+    border: 0;
+  }
 }
+
+// .main-nav {
+//   display: none;
+//   ul {
+//     @include rem(margin-left, 136px);
+//     align-items: center;
+//     display: flex;
+//     list-style: none;
+//   }
+
+//   li {
+//     font-size: 0.875rem;
+//     margin-right: 1rem;
+//   }
+
+//   a {
+
+//   }
+// } 
+
 
 /* 
  * Utility class to hide content visually while keeping it screen reader-accessible.
