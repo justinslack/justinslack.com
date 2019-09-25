@@ -12,11 +12,11 @@
   .home-header {
     font-size: 6em;
   }
-}
 
-.home-header-indent {
-  display: block;
-  transform: translateX(1ch);
+  .home-header-indent {
+    display: block;
+    transform: translateX(1ch);
+  }
 }
 
 .lead {
