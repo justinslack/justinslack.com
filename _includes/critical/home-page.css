@@ -2,6 +2,7 @@
 
 .main-home {
   display: grid;
+  padding-bottom: 5rem;
 }
 
 .home-header {
@@ -23,4 +24,23 @@
 .lead {
   font-size: 1.2em;
   max-width: 50ch;
+}
+
+.home-section {
+  max-width: 65ch;
+}
+
+.progress {
+  position: absolute;
+  top: 2rem;
+  right: 2rem;
+  writing-mode: vertical-lr;
+}
+
+p + h3 {
+  margin-top: 5rem;
+}
+
+.inline-link {
+  margin-right: 1rem;
 }

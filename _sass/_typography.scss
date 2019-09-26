@@ -53,6 +53,7 @@ h1, .h1 {
   margin-bottom: 1em;
 }
 h2, .h2 {
+  font-size: 2em;
   line-height: 1.5em;
   margin-top: 0.75em;
   margin-bottom: 0.75em;
@@ -96,6 +97,10 @@ sup {
 }
 sub {
   bottom: -0.25em;
+}
+
+small {
+  font-size: 80%;
 }
 
 // Lists
