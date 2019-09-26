@@ -32,9 +32,10 @@
 
 .progress {
   color: #585e6b;
+  font-family: monospace;
   position: absolute;
-  top: 2rem;
   right: 2rem;
+  top: 2rem;
   writing-mode: vertical-lr;
 }
 
