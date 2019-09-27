@@ -22,7 +22,8 @@ function updateStaticCache() {
       '/fonts/Inter-italic.var.woff2',
       ].concat(offlinePages));
       return cache.addAll([
-        '/'
+        '/',
+        '/offline/'
       ]);
   });
 }
