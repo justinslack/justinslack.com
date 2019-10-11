@@ -49,7 +49,7 @@ defaults:
       layout: default
 
 # Custom headers
-# webrick:
-#   headers:
-#     Content-Security-Policy: default-src 'self'; object-src 'none'; img-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'unsafe-inline'; font-src 'self'; manifest-src 'self'; connect-src 'self'; worker-src 'self';
+webrick:
+  headers:
+    Content-Security-Policy: default-src 'self'; object-src 'none'; img-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self'; font-src 'self'; manifest-src 'self'; connect-src 'self'; worker-src 'self';
 
