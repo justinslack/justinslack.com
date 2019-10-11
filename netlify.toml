@@ -6,3 +6,5 @@
     X-XSS-Protection = "1; mode=block"
     Referrer-Policy = "no-referrer"
     X-Content-Type-Options = "nosniff"
+
+Content-Security-Policy: default-src 'self'; object-src 'none'; img-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self'; font-src 'self'; manifest-src 'self'; connect-src 'self'; worker-src 'self';
