@@ -5,9 +5,6 @@ title: Justin Slack
 subtitle: Personal website
 url: "https:/justinslack.com"
 baseurl: ""
-show_full_navigation: true
-repository:
-repo-host: Bitbucket
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
@@ -50,7 +47,7 @@ defaults:
       path: ""
     values:
       layout: default
-      
+
 # Custom headers
 # webrick:
 #   headers:
