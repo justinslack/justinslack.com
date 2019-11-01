@@ -36,8 +36,9 @@ sass:
   sourcemap: true
 
 collections:
-  components:
-    title: Components
+  articles:
+    title: articles
+
     permalink: /:collection/:path/
     output: true
 
