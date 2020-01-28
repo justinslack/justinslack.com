@@ -3,7 +3,7 @@
 
 title: Justin Slack
 subtitle: Personal website
-url: "https:/justinslack.com"
+url: "https://justinslack.com"
 baseurl: ""
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
@@ -11,7 +11,7 @@ logo: /siteicon.png
 description: Justin Slack personal web site
 author:
   name: Justin Slack
-  email: justin@jusitnslak.com
+  email: justin@justin.com
 
 # -----
 # Build
