@@ -6,8 +6,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="google-site-verification" content="b51Zs_VHq8ALy7PS0Nf5rGQafLOqOU752SIQDojU6ng" />
 
-  <link as="font" type="font/woff2" href="/fonts/SourceSansVariable-Roman.ttf.woff2" crossorigin  rel="preload">
-
   <style type="text/css">
     {% capture include_to_scssify %}
       {% include main.scss %}
@@ -22,6 +20,8 @@
   {% endif %}
 
   <style>{{ critical }}</style>
+
+  <link rel="preload" as="font" type="font/woff2" href="/fonts/SourceSansVariable-Roman.ttf.woff2" crossorigin>
 
   <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/apple-touch-icon.png">
   <link rel="icon" type="image/png" href="{{ site.baseurl }}/favicon-32x32.png" sizes="32x32">
