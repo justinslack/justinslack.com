@@ -16,7 +16,9 @@ author:
 # -----
 # Build
 
-include: ["_pages", "_headers", "_redirects"]
+# include: ["_pages", "_headers", "_redirects"]
+
+include: ["_pages", "_redirects"]
 
 permalink: pretty
 
