@@ -8,6 +8,7 @@
 .home-header {
   font-size: 4em;
   margin: 4rem 0 3rem;
+  font-family: 'Schnyder M Web', Georgia, serif;
 }
 
 @media (min-width: 33.750em) {
