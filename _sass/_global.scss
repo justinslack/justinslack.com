@@ -5,7 +5,7 @@
 html {
   // background: linear-gradient(135deg, #fde4e0 0%,#fce4e0 20%,#cfd8e1 100%);
   background-color: #ffde5a;
-  background-color: #f7e8af;
+  background-color: #eee9f0;
   background-repeat: no-repeat;
   background-attachment: fixed;
   height: 100%;
@@ -26,8 +26,8 @@ body {
 }
 
 a:not(.home-link) {
-  border-bottom: 1px solid $eggplant;
-  color: $eggplant;
+  border-bottom: 1px solid #e84554;
+  color: #e84554;
   display: inline-block;
   font-weight: 550;
   line-height: 1.4;
@@ -61,8 +61,8 @@ img {
 
 .home-link {
   align-items: center;
-  border: 4px solid $eggplant;
-  color: $eggplant;
+  border: 4px solid #e84554;
+  color: #e84554;
   display: flex;
   font-size: 1.2em;
   font-weight: 650;
