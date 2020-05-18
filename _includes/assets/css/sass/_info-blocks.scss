@@ -1,0 +1,106 @@
+/* ==============Non critical CSS =============== */
+
+/* Home page */
+
+/* Grid articles */
+
+.icon--text {
+  padding-block-start: 3rem;
+  padding-inline-start: 2rem;
+  padding-inline-end: 1.5rem;
+}
+
+.icon--text-icon {
+  justify-items: center;
+  align-items: center;
+  display: grid;
+
+  svg {
+    width: 80px;
+    height: 80px;
+  }
+
+}
+
+.icon--main, .icon--bg {
+  grid-column-start: 1;
+  grid-row-start: 1;
+  grid-column-end: 2;
+  grid-row-end: 2;
+}
+
+.icon--text-animate {
+  transition: transform 250ms ease-in;
+}
+
+.icon--text {
+  &:hover {
+    .icon--text-icon {
+      svg .icon--text-animate {
+        transform: translate(-7px, -7px);
+      }
+    }
+  }
+}
+
+.icon--text {
+  &:hover {
+    .icon--text-icon {
+      svg .icon--text-animate.square {
+        transform: translate(-8px, -9px);
+      }
+    }
+  }
+}
+
+.icon--text {
+  &:hover {
+    .icon--text-icon {
+      svg .icon--text-animate.triangle {
+        transform: translate(-12px, -10px);
+      }
+    }
+  }
+}
+
+// Speakers
+
+.content--wrapper-speakers {
+  margin-block-start: 4rem;
+  background-color: #f8f9fa;
+}
+
+.speaker--card {
+  &:hover {
+    .speaker--cropped {
+      filter: initial;
+      border: 10px solid var(--accent);
+    }
+  }
+}
+
+.speaker--image {
+  margin-block-end: 0;
+  max-width: 200px;
+}
+
+.speaker--bg, .speaker--cropped {
+  align-self: center;
+  justify-self: center;
+  grid-column: 1 / 2;
+  grid-row: 1 / 2;
+}
+
+.speaker--cropped {
+  border-radius: 50%;
+  filter: grayscale(1);
+  object-fit: contain;
+  opacity: 0.7;
+  transform: translateY(4px);
+  transition: all 150ms ease;
+  width: 184px;
+}
+
+.speaker--title {
+  margin-block-start: 0;
+}

@@ -1,0 +1,27 @@
+---
+layout: layouts/base.njk
+section: speakers
+---
+
+<section class="content--container">
+  <h1 class="page--title">{{ title }}</h1>
+
+   <article class="textual--content">
+    {{ layoutContent | safe }}
+  {# 
+    {% if tags %}
+      <p>
+      {% for tag in tags %}
+        {%- if tag != "speaker-single" -%}
+          {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+          <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+        {%- endif -%}
+      {% endfor %}
+      </p>
+    {% endif %} #}
+  </article>
+
+  <nav>
+    <a href="{{ '/speakers/' | url }}">← Back to speakers</a>
+  </nav>
+</section>

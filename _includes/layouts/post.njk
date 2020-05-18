@@ -1,0 +1,32 @@
+---
+layout: layouts/base.njk
+section: post
+---
+
+<article class="container article-section">
+  <h1>{{ title }}</h1>
+  <p>
+    <small>
+      <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time> by {{ site.author }}
+     </small>
+  </p>      
+  <p>{{ blurb }}</p>
+  {% if tags %}
+    <p>Tags:
+    {% for tag in tags %}
+      {%- if tag != "post" -%}
+        {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+        <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+      {%- endif -%}
+    {% endfor %}
+    </p>
+  {% endif %}
+  <img src="{{ featuredImage }}" alt="" loading="lazy"> 
+
+  {{ layoutContent | safe }}
+
+  <!-- <nav>
+    <a href="{{ '/blog/' | url }}">← Article index</a>
+  </nav> -->
+
+</article>

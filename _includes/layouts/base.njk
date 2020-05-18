@@ -1,0 +1,29 @@
+<!doctype html>
+<html {% if section %} data-current="{{ section }}"{% endif %} lang="en">
+
+	{% include "components/head.njk" %}
+
+	<body>
+
+	<header class="main-header container"> <a href="/" class="home-link"> <span>JS</span> </a> </header>
+	<small class="progress">Site in progress</small>
+		<main>
+			{{ layoutContent | safe }}
+		</main>
+
+	
+
+		<script>
+  	if ("serviceWorker" in navigator) {
+    	navigator.serviceWorker
+      	.register("/service-worker.js")
+      	.then(function() {
+        	console.log("ServiceWorker has been registered!");
+      	})
+      	.catch(console.error);
+  	}
+		</script>
+
+	</body>	
+
+</html>

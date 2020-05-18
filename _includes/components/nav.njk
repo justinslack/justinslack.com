@@ -1,0 +1,11 @@
+<nav class="main--nav">
+  <input class="menu-btn" type="checkbox" id="menu-btn" />
+  <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
+  <ul>
+  {%- for nav in collections.nav | sort(attribute="date") -%}
+    <li>
+      <a href="{{ nav.url | url }}"{% if nav.url == page.url %} data-current="current item"{% endif %}>{{ nav.data.navtitle }}</a>
+    </li>
+  {%- endfor -%}
+  </ul>
+</nav>

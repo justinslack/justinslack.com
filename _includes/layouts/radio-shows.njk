@@ -1,0 +1,18 @@
+---
+layout: layouts/base.njk
+section: shows
+permalink: /shows/index.html
+---
+
+<section class="container content--container">
+  <h1 class="page--title">{{ title }}</h1>
+
+  <article class="textual--content">
+    {{ layoutContent | safe }}
+  </article>
+
+  <div class="grid three--column--grid">
+  {% set showlist = collections.show %}
+  {% include "components/showlist.njk" %}
+  </div>
+</section>
