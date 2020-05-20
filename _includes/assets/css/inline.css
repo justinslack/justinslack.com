@@ -302,7 +302,6 @@ img {
 	color: var(--accent);
 }
 
-
 .inactive {
 	color: var(--blue);
 	cursor: not-allowed;
