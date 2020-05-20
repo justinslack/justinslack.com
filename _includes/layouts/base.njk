@@ -5,7 +5,10 @@
 
 	<body>
 
-	<header class="main-header container"> <a href="/" class="home-link"> <span>JS</span> </a> </header>
+	<header class="main-header container"> 
+		<a href="/" class="home-link"> <span>JS</span> </a> 
+		{% include "components/nav.njk" %}
+	</header>
 	<small class="progress">Site in progress</small>
 		<main>
 			{{ layoutContent | safe }}

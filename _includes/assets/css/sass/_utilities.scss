@@ -96,8 +96,8 @@
 .read-more {
   @include font-size(14);
   align-items: center;
-  border: 2px solid darken($deep-blush, 10%);
-  color: darken($deep-blush, 10%);
+  border: 2px solid red;
+  color: red;
   display: inline-flex;
   padding: 0.5rem 0.5rem 0.5rem 1rem;
   justify-content: center;
@@ -107,13 +107,13 @@
   width: 12rem;
 
   &:hover {
-    border: 2px solid $elf-green;
+    border: 2px solid green;
 
     .read-more-icon {
       transform: translateX(12px);
 
       rect, polygon {
-        fill: $elf-green;
+        fill: green;
       }
 
     }    

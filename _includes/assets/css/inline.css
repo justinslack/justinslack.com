@@ -1,3 +1,11 @@
+:root {
+	--blue:#3F6994;
+	--base: #3e4a6d;
+	--accent: #d60057;
+	--yellow: #eeb601;
+	--background: #008ecc;
+}
+
 html {
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%;
@@ -180,9 +188,10 @@ body {
 	line-height: 1.7;
 	padding: 0 1rem;
 }
+
 p a {
-	border-bottom: 1px solid #e84554;
-	color: #e84554;
+	border-bottom: 1px solid var(--accent);
+	color: var(--accent);
 	display: inline-block;
 	font-weight: 550;
 	line-height: 1.4;
@@ -207,17 +216,17 @@ img {
 .main-header {
 	align-items: center;
 	display: flex;
+	padding: 2rem 0;
 }
 .home-link {
 	align-items: center;
-	border: 4px solid rgb(61, 104, 150);
-	color:rgb(61, 104, 150);
+	border: 4px solid var(--blue);
+	color: var(--blue);
 	display: flex;
 	font-size: 1.2em;
 	font-weight: 650;
 	height: 60px;
 	justify-content: center;
-	margin-top: 2rem;
 	text-decoration: none;
 	width: 60px;
 }
@@ -225,6 +234,75 @@ img {
 	background-color:rgb(61, 104, 150);
 	color: white;
 }
+
+/* Header Nav */
+.main--nav ul {
+	display: flex;
+	flex-direction: column;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	font-family: var(--alt-font-family);
+}
+
+.main--nav ul:first-child {
+	margin-left: 0;
+}
+
+.main--nav li {
+	display: flex;
+	justify-content: center;
+	margin: 0 1rem;
+}
+
+.main--nav a {
+	color: var(--blue);
+	font-size: 0.875em;
+	font-weight: 700;
+	letter-spacing: 0.04em;
+	text-decoration: none;
+  text-transform: uppercase;
+  transition: all 150ms ease-in-out;
+}
+
+.main--nav a::after {
+  background-color: var(--accent);
+  content: "";
+  display: block;
+  height: 3px;
+  transform: scale(0);
+  transition: transform 250ms ease-in-out;
+}
+
+.main--nav a[data-current="current item"], .main--nav a:hover {
+  color: var(--accent);
+}
+
+
+.main--nav a[data-current="current item"]::after, .main--nav a:hover::after {
+  display: block;
+  transform: scale(1);
+}
+
+/* Utilities */
+
+.is-hidden {
+	display: none;
+}
+
+.is-visually-hidden {
+  border: 0 !important;
+  clip: rect(1px, 1px, 1px, 1px) !important;
+  height: 1px !important;
+  overflow: hidden !important;
+  padding: 0 !important;
+  position: absolute !important;
+  width: 1px !important;
+}
+
+
+
+
 .sr-only:not(:focus):not(:active) {
 	clip: rect(0 0 0 0);
 	clip-path: inset(100%);
@@ -326,10 +404,10 @@ p + h3 {
 	padding-bottom: 4rem;
 }
 
-.listen svg {
-	margin-right: 1rem;
+.listen p {
+	margin: 0;
 }
 
-.listen a {
-	margin-left: 0.5rem;
+.listen svg {
+	margin-right: 1rem;
 }
