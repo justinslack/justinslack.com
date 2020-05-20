@@ -236,6 +236,13 @@ img {
 }
 
 /* Header Nav */
+
+.main--nav {
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+}
+
 .main--nav ul {
 	display: flex;
 	flex-direction: column;
@@ -255,7 +262,7 @@ img {
 	margin: 0 1rem;
 }
 
-.main--nav a {
+.main--nav-link {
 	color: var(--blue);
 	font-size: 0.875em;
 	font-weight: 700;
@@ -265,7 +272,7 @@ img {
   transition: all 150ms ease-in-out;
 }
 
-.main--nav a::after {
+.main--nav-link::after {
   background-color: var(--accent);
   content: "";
   display: block;
@@ -274,14 +281,38 @@ img {
   transition: transform 250ms ease-in-out;
 }
 
-.main--nav a[data-current="current item"], .main--nav a:hover {
+.main--nav-link[data-current="current item"], .main--nav-link:hover {
   color: var(--accent);
 }
 
 
-.main--nav a[data-current="current item"]::after, .main--nav a:hover::after {
+.main--nav-link[data-current="current item"]::after, .main--nav-link:hover::after {
   display: block;
   transform: scale(1);
+}
+
+.elsewhere {
+	color: var(--blue);
+	margin-inline-start: 0.5rem;
+	text-decoration: none;
+	transition: all 0.4s ease-in-out 0s;
+}
+
+.elsewhere:hover {
+	color: var(--accent);
+}
+
+
+.inactive {
+	color: var(--blue);
+	cursor: not-allowed;
+	font-size: 0.875em;
+	font-weight: 700;
+	letter-spacing: 0.04em;
+	position: relative;
+	text-decoration: line-through;
+  text-transform: uppercase;
+	transition: all 150ms ease-in-out;
 }
 
 /* Utilities */

@@ -4,6 +4,11 @@
 .main--nav ul {
   display: none;
   transition: max-height .2s ease-out;
+
+  @include breakpoint(48em) {
+    padding-left: 6vh;
+  }
+
 }
 
 .main--nav li {
