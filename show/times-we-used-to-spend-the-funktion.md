@@ -203,7 +203,7 @@ This episode is about a club called The Funktion that ran for two years in the m
 
 [Larry Heard - The Calm & Chaos EP](https://www.discogs.com/Larry-Heard-The-Calm-Chaos-EP/master/277508)
 
-**Transcript**: And appropriately to end, So Much Joy by Mr Larry Heard, a reminder of the amazing times we used to spend.
+**Transcript**: And appropriately to end, So Much Joy by Mr Larry Heard, a reminder of the wonderful times we used to spend.
 
 <figure class="align--center internal--image">
   <img src="/static/images/shows/blu-last-night.jpg" alt="Blu: The last event" loading="lazy">
