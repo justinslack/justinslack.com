@@ -14,7 +14,7 @@ tags:
   - music
 ---
 
-This episode is about a club called The Funktion that ran for two years in the mid 90s in Cape Town. It is the story of the music we played there at our residency on Friday nights. But more importantly it is also a tribute to and remembrance of Matthew Buck who we unfortunately lost in 2019. Matt was co-founder of the Funktion and the heart of its music. This show is dedicated to him.
+This episode is about a club called The Funktion that ran for two years in the mid 90s in Cape Town. It is the story of the music I played there at our residency on Friday nights. But more importantly it is also a tribute to and remembrance of Matthew Buck who we unfortunately lost in 2019. Matt was co-founder of the Funktion and the heart of its music. This show is dedicated to him.
 
 ## Track list and transcript
 
@@ -104,13 +104,13 @@ This episode is about a club called The Funktion that ran for two years in the m
 
 **Transcript**: Still on Mo Wax this is a track by Le Funk Mob, French beat makers who would go on to be Cassius but we don't care about that bit. This is from the Breaking Boundaries Messing Up Heads EP and the remix is by none other than Richie Hawtin. A testament to the title of the release this double 10" had this mix by Hawtin as well as mixes by Carl Craig and Nightmares on Wax. If you ever wondered what Hawtin would sound like unleashed on some breakbeats here you go.
 
-**Transcript**: Mo Wax would continue to embrace this cross genre approach commissioning remixes by the likes of Photek, Peshay, Wax Doctor and Hawtin oince again who would turn the truly awful Attica Blues' Blueprint into a menacing half speed electro work out.
+**Transcript**: Mo Wax would continue to embrace this cross genre approach on a number of releases commissioning remixes by the likes of Photek, Peshay, Wax Doctor and Hawtin once again, who would turn the truly boring Attica Blues' Blueprint into a menacing half speed electro work out.
 
 ### Palmskin Productions - The Beast (Autechre Mix) - Mo Wax (1994)
 
 [Palm Skin Productions - The Beast (Remix)](https://www.discogs.com/Palm-Skin-Productions-The-Beast-Remix/release/64381)
 
-**Transcript**: A decidedly average release is turned into a wonder of beauty and contemplation. Autechre remix Palmskin Productions The Beast. This 12" also has two wonderful drum and bass mixes by Global Communication in their Links guise and by the Bristol trio of Krust, Roni Size and Suv. Cheap on Discogs. 
+**Transcript**: A decidedly average release is turned into a wonder of beauty and contemplation. Autechre remix Palmskin Productions The Beast. This 12" also has two wonderful drum and bass mixes by Global Communication in their Links guise and by the Bristol trio of Krust, Roni Size and Suv. Another example of how genres were so fluid in the 90s. Cheap on Discogs. 
 
 **Transcript**: Mo Wax lost their way though. The sprawling incoherent Headz 2 compilation, the underwhelming Excursions sub-label and a disastrous deal with Sony saw it folding in 2002. But for a brief period in the mid 90s it was untouchable.
 
@@ -119,6 +119,9 @@ This episode is about a club called The Funktion that ran for two years in the m
 [Move D - Kunststoff](https://www.discogs.com/Move-D-Kunststoff/release/14432)
 
 **Transcript**: While we primarily played breakbeat orientated records on Fridays there was also space for more four four type tracks. This is from Move D's Kunststoff album released in 1995. Very much a European record but influenced by Detroit. I always saw parallels between this and the kind of techno coming out in the UK at the time on labels like Likemind, Irdial, Buzz, Warp and Planet E. A beauty.
+
+**Transcript**: Kunstofft was re-released in 2018. The vinyl and a digital release is available on [Bandcamp](https://avarecords.bandcamp.com/album/kunststoff). Otherwise, you know, Spotify. It's an amazing album.
+
 
 ### Nuron - Mirage - Likemind (1994)
 
@@ -140,14 +143,14 @@ This episode is about a club called The Funktion that ran for two years in the m
 
 [The Sentinel - Heavy Vibes / Pulse Of Life](https://www.discogs.com/The-Sentinel-Heavy-Vibes-Pulse-Of-Life/release/77036)
 
-**Transcript**: Sentinel is Rupert PArkes, AKA Photek amongst other things. What can you say about Photek that hasn't already been said? Watch out for a show dedicated to the man's 90s work.
+**Transcript**: Sentinel is Rupert Parkes, AKA Photek amongst other things. This is an early release on Basement Records. What can you say about Photek that hasn't already been said? Watch out for a show dedicated to his 90s work.
 
 <figure class="align--center internal--image">
   <img src="/static/images/shows/blu-2.jpg" alt="Blu: The Funktion" loading="lazy" >
   <figcaption>Blu: A play on Blue Note and Reid Miles</figcaption>
 </figure>
 
-**Transcript**: Some time in 1996, I don’t remember exactly when, we changed the name of the night to Blu and [Bruno Morphet](https://planbdesign.co.za/) designed a striking identity for the flyers based on [Reid Miles'](http://retinart.net/artist-profiles/jazzy-blue-notes-reid-miles/) iconic Blue Note album covers, using a contemporary artist each week. Instead of Dexter Gordon we had Ol Dirty Bastard. I really think the designs hold up twenty-five years later. It really was great work by Bruno.
+**Transcript**: Some time in 1996, I don’t remember exactly when, we changed the name of the night to Blu and [Bruno Morphet](https://planbdesign.co.za/) designed a striking identity for the flyers based on [Reid Miles'](http://retinart.net/artist-profiles/jazzy-blue-notes-reid-miles/) iconic Blue Note album covers, using a contemporary artist each week. Instead of Dexter Gordon we had Ol Dirty Bastard. It really was great work by Bruno and I think the designs hold up twenty-five years later..
 
 <figure class="align--center internal--image">
   <img src="/static/images/shows/blu-one.jpg" alt="Blu: The Funktion Ol Dirty Bastard" loading="lazy">
@@ -190,7 +193,7 @@ This episode is about a club called The Funktion that ran for two years in the m
 
 **Rob White**: The record store I mean, we sold, you know, a ton of records from there and a ton of CDs but it never turned a profit. It was so expensive to bring stuff in there. The rand really plunged to the pound in about 97. And regardless of that, you know, Matt gave me free rein over the ordering. There's never a time that I needed to double check something with him, you know, he trusted in me and that was always the thing with Matt, you know, he always kind of had belief in people he always believed in you. And that, that shone through with Matt, you could always tell the people that were that surrounded him or he was surrounded by, and I don't think it was a case of him choosing to surround himself with these people, you know, including myself, we all gravitated towards him because he just had so much integrity.
 
-**Rob White**: I think that sums it up. You know, if there's one word that aren't attached to my back, it will be integrity in everything he did. You know, the things that he built the people that he influenced, and his take on life was always, always just that one or two steps ahead of everybody. And he never sold out. He always stuck to his guns. And like I said, People gravitated towards that myself being, you know, one of the main ones, and I have so much to thank him for he was one of the greatest people I've ever known. And, Matt, wherever you are, I miss you very much. We all miss you. And thank you for believing. Thank you for the inspiration.
+**Rob White**: I think that sums it up. You know, if there's one word that I associate with Matt Buck, it will be integrity in everything he did. You know, the things that he built the people that he influenced, and his take on life was always, always just that one or two steps ahead of everybody. And he never sold out. He always stuck to his guns. And like I said, people gravitated towards that myself being, you know, one of the main ones, and I have so much to thank him for he was one of the greatest people I've ever known. And, Matt, wherever you are, I miss you very much. We all miss you. And thank you for believing. Thank you for the inspiration.
 
 **Transcript**: So that brings us to the end of just a part of the story. Trip hop unfortunately became a soporific soundtrack to car adverts and the subject of a million chill out and lounge compilations. And gave us the deathly dull likes of Morcheeba, while drum and bass, well, I'll say more about its decline in another show.  
 
