@@ -278,7 +278,7 @@ img {
 }
 
 .main--nav-link::after {
-  background: linear-gradient(45deg, var(--blue) 10%, var(--accent) 50%, var(--background) 20%);
+	background: linear-gradient(to right, var(--blue), var(--accent));
   content: "";
   display: block;
   height: 3px;

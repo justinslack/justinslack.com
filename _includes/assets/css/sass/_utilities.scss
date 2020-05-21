@@ -208,7 +208,7 @@
   transform: skewY(-10deg);
 
   &::before {
-    background: linear-gradient(25deg, var(--blue) 10%, var(--accent), var(--background) 50%);
+    background: linear-gradient(to right, var(--blue), var(--accent));
     content: "";
     height: 4px;
     left: 0;
