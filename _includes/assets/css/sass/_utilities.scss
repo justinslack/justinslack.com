@@ -264,3 +264,10 @@
   position: relative;
   transform: skewY(-10deg);
 }
+
+.next--show-copy {
+  display: flex;
+  flex-direction: column;
+  padding: 3rem 2rem 1.5rem;
+  transform: skewY(10deg);
+}

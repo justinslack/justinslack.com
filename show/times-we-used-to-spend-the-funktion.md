@@ -43,7 +43,7 @@ This episode is about a club called The Funktion that ran for two years in the m
 
 [Funki Porcini - It's A Long Road / Poseathon](https://www.discogs.com/Funki-Porcini-Its-A-Long-Road-Poseathon/release/29240)
 
-**Transcript**: [Ninja Tune](https://ninjatune.net/home) was a big part of what we played back then. Part of the nascent trip hop scene, which promised so much. "Fucked up, anything-goes neo-B-boy abstraction" as Simon Reynolds put it. The track we are listening to now is "It's a long Road" by Funki Porcini which came out on Ninja Tune in 1995. Sad to say Ninja Tune of this era hasn't had much longevity. All your London Funk All Stars, 9 Lazy 9 and whatnot sound distinctly dated now. I still have a soft spot for this one though.
+**Transcript**: [Ninja Tune](https://ninjatune.net/home) was a big part of what we played back then. Part of the nascent trip hop scene, which promised so much. "Fucked up, anything-goes neo-B-boy abstraction" as Simon Reynolds put it in [Energy Flash](https://www.faber.co.uk/9780571289134-energy-flash.html). The track we are listening to now is "It's a long Road" by Funki Porcini which came out on Ninja Tune in 1995. Sad to say Ninja Tune of this era hasn't had much longevity. All your London Funk All Stars, 9 Lazy 9 and whatnot sound distinctly dated now. I still have a soft spot for this one though.
 
 ### 4 Hero - Escaping Categories - SSR (1995)
 
@@ -61,7 +61,7 @@ This episode is about a club called The Funktion that ran for two years in the m
 
 [AIR - Modulor Mix](https://www.discogs.com/AIR-Modulor-Mix/release/191496)
 
-**Transcript**: Air's first release on the French Source Lab label. And what a beauty it is. This was later released on Mo Wax the highlight of whihc is a rolling drum and bass remix by [Source Direct](https://www.discogs.com/AIR-Modulor-Mix/release/16193). 
+**Transcript**: Air's first release on the French Source Lab label. And what a beauty it is. This was later released on Mo Wax the highlight of which is a rolling drum and bass remix by [Source Direct](https://www.discogs.com/AIR-Modulor-Mix/release/16193). 
 
 ### Bone Thugs and Harmony - 1st Of Tha Month (The Kruder & Dorfmeister Session Part 3) - Ruthless 1995
 
@@ -91,7 +91,7 @@ This episode is about a club called The Funktion that ran for two years in the m
 
 **Transcript**: If there was one label, and sound, we were obsessed with at this time it was Mo Wax and I bought anything of theirs I could get my hands on. Launched in 1992 by James Lavelle (when he was 19 years old or something ridiculous) their early acid jazz productions quickly gave way to more abstract beat styles and a sound that embraced hip hop, electro, breakbeat and jungle. The label introduced the world to both DJ Shadow and DJ Krush, released the first Blackalicious album, and resurrected the career of Kool Keith amongst many things. Impeccably [designed](https://thevinylfactory.com/features/cover-versions-the-10-best-mowax-sleeves/) with graphics by Futura, layout by Ben Drury and typography by Swifty (also designer of [Straight No Chaser](https://straightnochaser.bigcartel.com/products) our bible at the time), my Mo Wax records are up there with the most prized in my collection.
 
-**Transcript**: This track is label founder James Lavelle's UNKLE project while Shadow was still a member, remixed by Japan's legendary beat crew Major Force who also releaed an amazing [box set](https://www.discogs.com/Various-Major-Force-The-Original-Art-Form/release/71325) on the label. I could have gone with any Shadow or Krush record but this is probably my favourite Mo Wax record. 
+**Transcript**: This track is label founder James Lavelle's UNKLE project while Shadow was still a member, remixed by Japan's legendary beat crew Major Force who also releaed an amazing [box set](https://www.discogs.com/Various-Major-Force-The-Original-Art-Form/release/71325) on the label. I could have gone with any Shadow or Krush record but this is probably my favourite Mo Wax track. 
 
 ### Le Funk Mob - Motor Bass Get Phunked Up (Electrofunk Remix) - Mo Wax (1994)
 
@@ -112,7 +112,7 @@ This episode is about a club called The Funktion that ran for two years in the m
 
 [Palm Skin Productions - The Beast (Remix)](https://www.discogs.com/Palm-Skin-Productions-The-Beast-Remix/release/64381)
 
-**Transcript**: A decidedly average release is turned into a wonder of beauty and contemplation. Autechre remix Palmskin Productions The Beast. This 12" also has two wonderful drum and bass mixes by Global Communication in their Links guise and by the Bristol trio of Krust, Roni Size and Suv. Another example of how genres were so fluid in the 90s. Cheap on Discogs. 
+**Transcript**: A decidedly average release is turned into a wonder of beauty and contemplation. Autechre remix Palmskin Productions' The Beast. This 12" also has two wonderful drum and bass mixes by Global Communication in their Links guise and by the Bristol trio of Krust, Roni Size and Suv. Another example of how genres were so fluid in the 90s. Cheap on Discogs. 
 
 **Transcript**: Mo Wax lost their way though. The sprawling incoherent Headz 2 compilation, the underwhelming Excursions sub-label and a disastrous deal with Sony saw it folding in 2002. But for a brief period in the mid 90s it was untouchable.
 
