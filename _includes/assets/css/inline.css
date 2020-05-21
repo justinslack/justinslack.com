@@ -213,6 +213,11 @@ img {
 	max-width: 1170px;
 	margin: 0 auto;
 }
+
+.single--page {
+	padding-top: 6rem;
+}
+
 .main-header {
 	align-items: center;
 	display: flex;
@@ -273,7 +278,7 @@ img {
 }
 
 .main--nav-link::after {
-  background-color: var(--accent);
+  background: linear-gradient(45deg, var(--blue) 10%, var(--accent) 50%, var(--background) 20%);
   content: "";
   display: block;
   height: 3px;

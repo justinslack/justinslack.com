@@ -1,11 +1,12 @@
 {% for post in showlist | reverse %}
-<a href="{{ post.url | url }}" class="flex flex--column show--card">
-		<figure class="grid show--image">
-			<img src="{{ post.data.featuredImage }}" alt="{{ post.title }}" class="show--cropped">
-		</figure>
-		<h3 class="show--name">
-				{{ post.data.show }}:
-				{{ post.data.subtitle }}
+<div class="flex flex--column show--card">
+	<a href="{{ post.url | url }}" class="show--card-link">
+		<span class="show--card-number">{{ post.data.number }}</span>
+		<h3 class="show--card-name">
+			{{ post.data.show }}
+			<span class="sub--title">{{ post.data.subtitle }}</span>
 		</h3>
-	</a>
+		<p class="show--summary">{{ post.data.summary }}</p>
+		</a>
+	</div>
 {% endfor %}

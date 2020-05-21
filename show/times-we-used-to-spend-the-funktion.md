@@ -1,14 +1,16 @@
 ---
 title: Times We Used to Spend - The Funktion
-summary: This episode is about a club called The Funktion that ran for two years in the mid 90s. It is the story of the music we played at our residency on Friday nights. But more importantly it is also a tribute to and remembrance of Matthew Buck who we unfortunately lost in 2019. Matt was co-founder of the Funktion and the heart of the music that was played there. This show is dedicated to him.
+summary: Remembering the Funktion and Matthew Buck.
 metaDesc: This episode of Times We Used to Spend is about a club called The Funktion that ran for two years in the mid 90s. It is the story of the music we played at our residency on Friday nights. But more importantly it is also a tribute to and remembrance of Matthew Buck who we unfortunately lost in 2019. Matt was co-founder of the Funktion and the heart of the music that was played there. This show is dedicated to him.
 date: 2020-05-20
 author: Justin Slack
-show: Episode Number one
+show: Episode One
 subtitle: The Funktion
 featuredImage: /static/images/shows/220320TimesWeUsedToSpendTheFunktion.jpg
 alt: Times we used to spend episode one
 showlink: https://www.mixcloud.com/TheOtherRadio/
+section: show
+number: 1
 tags:
   - radio
   - music
