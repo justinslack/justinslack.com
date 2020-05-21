@@ -12,7 +12,13 @@ permalink: /shows/index.html
   </article>
 
   <div class="grid three--column--grid list--shows">
-  {% set showlist = collections.show %}
-  {% include "components/showlist.njk" %}
+    {% set showlist = collections.show %}
+    {% include "components/showlist.njk" %}
+    <article class="next--show">
+		  <div class="next--show-copy">
+        <p>Next show</p>
+		    <time>Date</time>
+      </div>
+    </article>
   </div>
 </section>
