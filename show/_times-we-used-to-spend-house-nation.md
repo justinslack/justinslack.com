@@ -1,10 +1,10 @@
 ---
-title: Times We Used to Spend - Jungle
-summary: This episode is about jungle.
+title: Times We Used to Spend - House Nation
+summary: This episode is about jouse.
 date: 2020-05-19
 author: Justin Slack
 show: Episode Number two
-subtitle: Jungle
+subtitle: House Nation
 featuredImage: /static/images/shows/220320TimesWeUsedToSpendTheFunktion.jpg
 alt: Times we used to spend episode two
 showlink: https://www.mixcloud.com/TheOtherRadio/
