@@ -1,7 +1,8 @@
 ---
 title: Times We Used to Spend - House Nation
-summary: This episode is about jouse.
+summary: This episode is about house.
 date: 2020-05-19
+metaDesc: Coming soon
 author: Justin Slack
 show: Episode Number two
 subtitle: House Nation
@@ -12,6 +13,8 @@ tags:
   - radio
   - music
 ---
+
+
 
 <!-- This episode is about a club called The Funktion that ran for two years in the mid 90s in Cape Town. It is the story of the music we played there at our residency on Friday nights. But more importantly it is also a tribute to and remembrance of Matthew Buck who we unfortunately lost in 2019. Matt was co-founder of the Funktion and the heart of its music. This show is dedicated to him.
 
