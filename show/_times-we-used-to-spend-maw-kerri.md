@@ -1,10 +1,10 @@
 ---
-title: Times We Used to Spend - House Nation
+title: Times We Used to Spend - Masters at Work and Kerri Chandler
 summary: This episode is about house.
 date: 2020-05-19
 metaDesc: Coming soon
 author: Justin Slack
-show: Episode Number three
+show: Episode Number two
 subtitle: House Nation
 featuredImage: /static/images/shows/220320TimesWeUsedToSpendTheFunktion.jpg
 alt: Times we used to spend episode two
