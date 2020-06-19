@@ -215,7 +215,7 @@ img {
 }
 
 .single--page {
-	padding-top: 6rem;
+	padding: 6rem 0;
 }
 
 .main-header {
