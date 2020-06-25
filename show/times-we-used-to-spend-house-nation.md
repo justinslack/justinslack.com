@@ -6,8 +6,8 @@ metaDesc: This episode of times We Used To Spend documents early house through r
 author: Justin Slack
 show: Episode Two
 subtitle: House Nation
-featuredImage: /static/images/shows/26062020TimesWeUsedToSpendHouseNation.jpg
-socialImage: /static/images/shows/26062020TimesWeUsedToSpendHouseNation.jpg
+featuredImage: /static/images/shows/26062020TimesWeUsedToSpendHouseNationMain.jpg
+socialImage: /static/images/shows/26062020TimesWeUsedToSpendHouseNationMain.jpg
 alt: Times we used to spend episode two
 showlink: https://www.mixcloud.com/TheOtherRadio/
 section: show
@@ -94,7 +94,7 @@ The *Blow Out Dub* of *I like It* by Landlord. Landlord was Nick Fiorucci and th
 
 [Essence - Moments In House](https://www.discogs.com/Essence-Moments-In-House/master/931140)
 
-It's 1990 and we are now in New York. And we are listening to a track by Essence called *Just A Touch,* the *Jazz Element Mix* which came out on Strictly Rhythm. One of the most important house labels of all time. Essence was Wayne Gardiner who also recorded Classic Man, Logic, etc. Really, highly influential, important figure in the early New York house sound. He didn't release a bad track. For me, this is a really important house music release. It's kind of one of the first tracks that had this shuffle kind of feel to the beats as opposed to your Chicago house that was very rigid, very straight four four, a lot rawer as well. Whereas this is quite silky, almost smooth and gentle in a way, as opposed to that kind of rough and ready Chicago sound. You can see the stylistic differences very clearly between New York style house and Chicago and again Detroit which is also very different. 
+It's 1990 and we are now in New York. And we are listening to a track by Essence called *Just A Touch,* the *Jazz Element Mix* which came out on Strictly Rhythm. One of the most important house labels of all time. Essence was Wayne Gardiner who also recorded as Classic Man, Logic, etc. Really, highly influential, important figure in the early New York house sound. He didn't release a bad track. For me, this is a really important house music release. It's one of the first tracks that had this shuffle feel to the beats as opposed to your Chicago house that was very rigid, very straight four four, a lot rawer as well. Whereas this is quite silky, almost smooth and gentle in a way, as opposed to that kind of rough and ready Chicago sound. You can see the stylistic differences very clearly between New York style house and Chicago and again Detroit which is also very different. 
 
 That becomes particularly clear when you listen to people like Kerri Chandler and Masters at Work, and the New Jersey house sound as well. But in this track you can also hear the influence of Larry Heard and Mr. Fingers, particularly in the bass, in those stabs that come in now and then, in the synths. Just a really important record and on a really, really important label.
 
