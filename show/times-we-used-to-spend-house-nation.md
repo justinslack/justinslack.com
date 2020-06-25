@@ -7,6 +7,7 @@ author: Justin Slack
 show: Episode Two
 subtitle: House Nation
 featuredImage: /static/images/shows/26062020TimesWeUsedToSpendHouseNation.jpg
+socialImage: /static/images/shows/26062020TimesWeUsedToSpendHouseNation.jpg
 alt: Times we used to spend episode two
 showlink: https://www.mixcloud.com/TheOtherRadio/
 section: show

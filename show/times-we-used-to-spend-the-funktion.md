@@ -7,6 +7,7 @@ author: Justin Slack
 show: Episode One
 subtitle: The Funktion
 featuredImage: /static/images/shows/220320TimesWeUsedToSpendTheFunktion.jpg
+socialImage: /static/images/shows/220320TimesWeUsedToSpendTheFunktion.jpg
 alt: Times we used to spend episode one
 showlink: https://www.mixcloud.com/TheOtherRadio/
 section: show
