@@ -51,7 +51,7 @@ We're listening to *House Nation Under A Groove* by Da Rebels rebels an early tr
 [Fingers Inc. - Mystery Of Love](https://www.discogs.com/Fingers-Inc-Mystery-Of-Love/release/2558)
 
 <figure class="align--center internal--image">
-  <img src="/static/images/shows/FingersInc.jpg" alt="Fingers Inc" loading="lazy">
+  <img src="/static/images/shows/FingersInc.jpg" alt="Fingers Inc" loading="lazy" width="700" height="700">
   <figcaption>Fingers Inc <em>Mystery of Love</em></figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ What's interesting about this track is it's got that kind of house is for everyo
 [Landlord (2) Featuring Dex Danclair - I Like It](https://www.discogs.com/Landlord-2-Featuring-Dex-Danclair-I-Like-It/release/66130)
 
 <figure class="align--center internal--image">
-  <img src="/static/images/shows/Landlord.jpg" alt="Landlord" loading="lazy">
+  <img src="/static/images/shows/Landlord.jpg" alt="Landlord" loading="lazy"  width="700" height="700">
   <figcaption>Landlord <em>I Like It</em></figcaption>
 </figure>
 
@@ -108,13 +108,13 @@ I almost feel bad talking over this one. What an incredible record. This is The 
 
 [DJ's Rule - Get Into The Music (The Serious Remixes)](https://www.discogs.com/DJs-Rule-Get-Into-The-Music-The-Serious-Remixes/release/152262)
 
-So earlier we listened to a track by Landlord, which is Nick Fiorucci and this is also Nick Fiorucci, but this time under his DJs Rule guise. And we are still in 1991. It's called *Get Into the Music*.  Unsurprisingly, given the vocal. This is the ambient cult mix. Interestingly, this contains a mix called the *Cyber* mix, which was one of the first by Daniel Bell, John Aquaviva, and a certain Richie Hawtin. It's rubbish though. Don't worry about it. This is the one you want. People debate this as well because it sounds very similar to a mix of an a really famous MK track called Burning and they were both released in the same year. So no one really knows which one came out first, but it's up for some debate, not that it really matters. We'll listen to the MK track next. 
+So earlier we listened to a track by Landlord, which is Nick Fiorucci and this is also Nick Fiorucci, but this time under his DJs Rule guise. And we are still in 1991. It's called *Get Into the Music*.  Unsurprisingly, given the vocal. This is the ambient cult mix. Interestingly, this contains a mix called the *Cyber* mix, which was one of the first by Daniel Bell, John Aquaviva, and a certain Richie Hawtin. It's rubbish though. Don't worry about it. This is the one you want. People debate this as well because it sounds very similar to a mix of a really famous MK track called Burning and they were both released in the same year. So no one really knows which one came out first, but it's up for some debate, not that it really matters. We'll listen to the MK track next. 
 
 ### M.K. ‎– Burning (DeKalb mix) - Area 10 - (1991)
 
 [M.K.* - Burning](https://www.discogs.com/MK-Burning/release/58098)
 
-So I'm sure we can discern the similarity between this and the DJs Rule rule track we listened to before this. The baseline is almost identical. Not that it matters. So MK *Burning.* This is a really famous house track. This is the *Dekalb* mix which is the one I like the most although there are a ton of them. This had a massive influence on UK garage as I'm sure you can hear and will hear a little bit later on towards the end of the track with the skittering beats and cut up vocals, which became a staple of two step in the late 90s. People like Ramsey and Fen and Dem 2 and so on in the UK uk garage and two step scene. 
+So I'm sure we can discern the similarity between this and the DJs Rule track we listened to before this. The bassline is almost identical. Not that it matters. So MK *Burning.* This is a really famous house track. This is the *Dekalb* mix which is the one I like the most although there are a ton of them. This had a massive influence on UK garage as I'm sure you can hear and will hear a little bit later on towards the end of the track with the skittering beats and cut up vocals, which became a staple of two step in the late 90s. People like Ramsey and Fen and Dem 2 and so on in the UK garage and two step scene. 
 
 MK released a bunch kind of amazing house records in the early 90s. This is from 91. And did a bunch of really incredible remixes as well. And then he moved to LA and he started working with Will Smith on like cheesy hip hop records and now he does remixes for Katy Perry and stuff like that, which is fine, whatever. I'm glad he's making a living out of his music. But the stuff he did in the early 90s will always remain some of the best house music ever and he should be remembered up there for these with the likes of Masters at Work, Kerri Chandler, Larry Heard and so on.
 
@@ -139,7 +139,7 @@ As well as producing amazing house records, he also worked with hip hop people l
 [Sound Waves - I Wanna Feel The Music / Gotta Have You](https://www.discogs.com/Sound-Waves-I-Wanna-Feel-The-Music-Gotta-Have-You/release/95989)
 
 <figure class="align--center internal--image">
-  <img src="/static/images/shows/Soundwaves.jpg" alt="Sound Waves" loading="lazy">
+  <img src="/static/images/shows/Soundwaves.jpg" alt="Sound Waves" loading="lazy" width="700" height="700">
   <figcaption>Sound Waves <em>I Wanna Feel The Music</em></figcaption>
 </figure>
 
@@ -184,7 +184,7 @@ I don't usually go for vocal tracks. Prefer instrumental stuff or vocals that ar
 [After Hours - Waterfalls / Feel It](https://www.discogs.com/After-Hours-Waterfalls-Feel-It/release/5856)
 
 <figure class="align--center internal--image">
-  <img src="/static/images/shows/Afterhours.jpg" alt="After Hours" loading="lazy">
+  <img src="/static/images/shows/Afterhours.jpg" alt="After Hours" loading="lazy" width="700" height="700">
   <figcaption>After Hours <em>Waterfallsc</em></figcaption>
 </figure>
 
