@@ -12,25 +12,16 @@ permalink: /shows/index.html
   </article>
 
   <div class="grid three--column--grid list--shows">
-    {% set showlist = collections.show %}
-    {% include "components/showlist.njk" %}
     <article class="next--show">
 		  <div class="next--show-copy">
         <h3 class="show--card-name">
-          Up next
-			    <span class="sub--title">26 June 2020</span>
-		    </h3>
-        <p class="show--summary">House Nation</p>
-      </div>
-    </article>
-    <article class="next--show">
-		  <div class="next--show-copy">
-        <h3 class="show--card-name">
-          Scheduled
+          Next show
 			    <span class="sub--title">24 July 2020</span>
 		    </h3>
         <p class="show--summary">hEAR</p>
       </div>
     </article>
+    {% set showlist = collections.show %}
+    {% include "components/showlist.njk" %}
   </div>
 </section>
