@@ -44,7 +44,7 @@ Stop supporting events and promoters that book 90% white dudes and one white wom
 
 [DA Rebels - D.I.U. (Deep In Underground)](https://www.discogs.com/DA-Rebels-DIU-Deep-In-Underground/release/60704)
 
-We're listening to *House Nation Under A Groove* by Da Rebels rebels an early track from Chicago. 1989. Clubhouse Records. Da Rebels were Curtis Alan Jones, also known as Cashmere and Green Velvet and founder of Relief Records, and Liddel Townsell. Liddel made quite a few early house tracks in the 80s. Of course it's referencing Funkadelic *One Nation Under a Groove*. This was re-released in 1997 with a Harvey remix that's well worth tracking down. It's a really fantastic track.
+We're listening to *House Nation Under A Groove* by Da Rebels an early track from Chicago. 1989. Clubhouse Records. Da Rebels were Curtis Alan Jones, also known as Cashmere and Green Velvet and founder of Relief Records, and Liddel Townsell. Liddel made quite a few early house tracks in the 80s. Of course it's referencing Funkadelic *One Nation Under a Groove*. This was re-released in 1997 with a Harvey remix that's well worth tracking down. It's a really fantastic track.
 
 ### Fingers Inc ‎– Mystery Of Love (Club Mix) - DJ International (1986)
 
