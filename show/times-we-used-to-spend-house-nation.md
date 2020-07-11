@@ -51,7 +51,7 @@ We're listening to *House Nation Under A Groove* by Da Rebels an early track fro
 [Fingers Inc. - Mystery Of Love](https://www.discogs.com/Fingers-Inc-Mystery-Of-Love/release/2558)
 
 <figure class="align--center internal--image">
-  <img src="/static/images/shows/FingersInc.jpg" alt="Fingers Inc" loading="lazy" width="700" height="700">
+  <img src="/static/images/shows/FingersInc.jpg" alt="Fingers Inc" loading="lazy">
   <figcaption>Fingers Inc <em>Mystery of Love</em></figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ What's interesting about this track is it's got that kind of house is for everyo
 [Landlord (2) Featuring Dex Danclair - I Like It](https://www.discogs.com/Landlord-2-Featuring-Dex-Danclair-I-Like-It/release/66130)
 
 <figure class="align--center internal--image">
-  <img src="/static/images/shows/Landlord.jpg" alt="Landlord" loading="lazy"  width="700" height="700">
+  <img src="/static/images/shows/Landlord.jpg" alt="Landlord" loading="lazy" >
   <figcaption>Landlord <em>I Like It</em></figcaption>
 </figure>
 
@@ -139,7 +139,7 @@ As well as producing amazing house records, he also worked with hip hop people l
 [Sound Waves - I Wanna Feel The Music / Gotta Have You](https://www.discogs.com/Sound-Waves-I-Wanna-Feel-The-Music-Gotta-Have-You/release/95989)
 
 <figure class="align--center internal--image">
-  <img src="/static/images/shows/Soundwaves.jpg" alt="Sound Waves" loading="lazy" width="700" height="700">
+  <img src="/static/images/shows/Soundwaves.jpg" alt="Sound Waves" loading="lazy">
   <figcaption>Sound Waves <em>I Wanna Feel The Music</em></figcaption>
 </figure>
 
@@ -184,7 +184,7 @@ I don't usually go for vocal tracks. Prefer instrumental stuff or vocals that ar
 [After Hours - Waterfalls / Feel It](https://www.discogs.com/After-Hours-Waterfalls-Feel-It/release/5856)
 
 <figure class="align--center internal--image">
-  <img src="/static/images/shows/Afterhours.jpg" alt="After Hours" loading="lazy" width="700" height="700">
+  <img src="/static/images/shows/Afterhours.jpg" alt="After Hours" loading="lazy">
   <figcaption>After Hours <em>Waterfallsc</em></figcaption>
 </figure>
 
