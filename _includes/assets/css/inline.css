@@ -392,6 +392,7 @@ img {
 
 .internal--image img { 
 	box-shadow: 0 2px 50px rgba(0,0,0,0.19);
+	object-fit: contain;
 }
 
 .internal--image figcaption {
