@@ -3,7 +3,7 @@
 ## Local development
 
 ```
-npm install
+yarn install
 ```
 
 ```
