@@ -370,12 +370,12 @@ img {
 }
 
 .article-head {
-	padding: 6rem 0 0;
+	padding: 6rem 1rem 0;
 	max-width: 70ch;
 }
 
 .article-body {
-	padding: 0 0 6rem;
+	padding: 0 1rem 6rem;
 	max-width: 70ch;
 }
 
