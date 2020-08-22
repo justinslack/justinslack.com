@@ -8,7 +8,7 @@ p {
 
   p {
     &:first-of-type {
-      font-size: 1.5em;
+      font-size: 1.25em;
       line-height: 1.5;
     }
   }
@@ -31,4 +31,31 @@ p {
 
 .section--header {
   font-size: 3em;
+}
+
+.recent--header {
+  
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+.f-1 {
+  font-size: 1rem;
+}
+
+.featured--header {
+  font-family: Avenir, sans-serif;
+  line-height: 1;
+}
+
+.post--card {
+  color: var(--base);
+  text-decoration: none;
+
+  h4 {
+    line-height: 1.2;
+  }
+
 }

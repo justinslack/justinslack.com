@@ -148,6 +148,11 @@
 }
 
 /* layout */
+
+.block {
+  display: block;
+}
+
 .grid {
 	display: grid;
 }
@@ -271,3 +276,28 @@
   padding: 3rem 2rem 1.5rem;
   transform: skewY(10deg);
 }
+
+// spacing {
+
+// Margins
+
+.m-t-0 {
+  margin-top: 0;
+}
+
+// Padding
+
+.p-t-48 {
+  padding-top: 3rem;
+}
+
+.p-64 {
+  padding: 4rem;
+}
+
+.p-t-64 {
+  padding-top: 4rem;
+}
+
+
+

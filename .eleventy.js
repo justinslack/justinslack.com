@@ -6,8 +6,22 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginPWA = require("eleventy-plugin-pwa");
 
 module.exports = function(eleventyConfig) {
-  eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
-  eleventyConfig.addLayoutAlias("show", "layouts/post.njk");
+  eleventyConfig.addLayoutAlias("posts", "layouts/post.njk");
+  eleventyConfig.addLayoutAlias("show", "layouts/show.njk");
+
+  // only content in the `posts/` directory
+  eleventyConfig.addCollection("posts", function(collection) {
+    return collection.getAllSorted().filter(function(item) {
+      return item.inputPath.match(/^\.\/posts\//) !== null;
+    });
+  });
+
+  // only content in the `show/` directory
+  eleventyConfig.addCollection("show", function (collection) {
+    return collection.getAllSorted().filter(function (item) {
+      return item.inputPath.match(/^\.\/show\//) !== null;
+    });
+  });
 
   // Date formatting (human readable)
   eleventyConfig.addFilter("readableDate", dateObj => {
@@ -49,20 +63,6 @@ module.exports = function(eleventyConfig) {
 
   //  PWA
   eleventyConfig.addPlugin(pluginPWA);
-
-  // only content in the `posts/` directory
-  eleventyConfig.addCollection("posts", function(collection) {
-    return collection.getAllSorted().filter(function(item) {
-      return item.inputPath.match(/^\.\/posts\//) !== null;
-    });
-  });
-
-  // only content in the `show/` directory
-  eleventyConfig.addCollection("show", function (collection) {
-    return collection.getAllSorted().filter(function (item) {
-      return item.inputPath.match(/^\.\/show\//) !== null;
-    });
-  });
 
   
   // Don't process folders with static assets e.g. images

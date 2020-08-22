@@ -1,11 +1,12 @@
-<section class="main-home container">
+<div class="main-home container">
   <h1 class="home-header">UI Designer,
     <span class="home-header-indent">Front-end Developer</span>
   </h1>
   <small class="progress">Site in progress</small>
   <p class="lead">
-    Hello, I'm <strong>Justin Slack</strong> — a team leader, UI designer, front-end developer, speaker and tech community organiser. I am currently head of design and front-end at <a href="https://nml.co.za">NML</a>, a specialist financial services software development company in Cape Town, South Africa. </p>
-  <article class="home-section">
+    Hello, I'm <strong>Justin Slack</strong> — a team leader, UI designer, front-end developer, speaker and tech community organiser. I am currently head of design and front-end at <a href="https://nml.co.za">NML</a>, a software development company in Cape Town, South Africa.</p>
+    <p>More about <a href="/about/">me</a>. More about <a href="/work/">my work</a></p>
+  <!-- <article class="home-section">
     <h2>Current work</h2>
     <p>For the past six years I have led the design and frontend team at <strong>NML</strong>. During this time we have built design systems and front-ends for a range of clients including <a href="https://nedgroupinvestments.co.za/">Nedgroup Investments</a>, <a href="https://www.10x.co.za/">10x</a>, <a href="https://www.silica.net/">Silica</a>, <a href="https://www.africanrainbowlife.co.za/">African Rainbow Life</a>, <a href="https://www.stanlib.com/">Stanlib</a> and <a href="https://www.pamgolding.co.za/">Pam Golding</a>.
     </p>
@@ -23,5 +24,55 @@
     <p>I am a co-founder and organiser of the <a href="https://ctfeds.org">Cape Town Front-end Developer</a> meetup. Since 2012 we have run 70 <a href="https://www.meetup.com/ctfeds/">monthly talks and workshops</a> and at last count have over 2500 members.</p>
     <p>In addition to organising community events I also speak at conferences and meetups and have run a number of workshops. These include <a href="https://www.devconf.co.za/">DevConf</a>, <a href="http://uxsouthafrica.com/">UX South Africa</a>, <a href="https://www.meetup.com/DeveloperUG/">The Developer User Group</a>, <a href="https://www.meetup.com/Cape-Town-Scrum-User-Group-SUGSA/">The Scrum User Group</a> and <a href="https://www.meetup.com/Cape-Town-Dribbble-Community/">The Cape Town Dribbble Community</a> (full list coming soon).</p>
     <p>I am a regular at the <a href="https://www.meetup.com/Codebridge/events/bznrhryznbfb/">Codebridge Community Evening</a> - a collaborative civic tech meetup - where I am part of a team of activists, designers, developers, data scientists and journalists working on a website for the <a href="https://budgetjusticesa.org">Budget Justice Coalition</a>, a civil society coalition that aims to collaboratively build people's participation in and understanding of South Africa's budget and planning processes.</p>
-  </article>
-</section>
+  </article> -->
+  <h2>Writing</h2>
+  <section class="featured--column-grid grid">
+    <article class="featured--post flex">
+      {%- for post in collections.featured -%}
+        <a href="{{ post.url | url }}" class="featured--link">
+          <figure class="featured--image">
+            <img src="{{ post.data.featuredImage }}" alt="">
+          </figure>
+          <div class="featured--text">
+            <h2 class="featured--header m-t-0">{{ post.data.title }}</h2>
+            <p class="featured--summary">{{ post.data.summary }}</p>
+          </div>
+        </a>
+      {%- endfor -%}
+    </article>
+    <div class="recent--posts grid">
+      <h3 class="recent--header m-t-0">Recent articles</h3>
+      <div class="empty--posts with-bg">
+        <p class="f-1">More coming as soon as I write them</p>
+      </div>
+      <div>
+        {%- for post in collections.recent -%}
+        <a href="{{ post.url | url }}" class="post--card flex">
+          <figure class="recent--image block">
+            <img src="{{ post.data.featuredImage }}" alt="">
+          </figure>
+          <div>
+            <p class="post--type">{{ post.data.type }}</p>
+            <h4 class="m-t-0">{{ post.data.title }}</h4>
+            <time class="recent--time" datetime="{{ post.date | machineDate }}">{{ post.date | readableDate }}</time>
+          </div>
+        </a>
+        {%- endfor -%}
+      </div>
+    </div>
+  </section>
+
+  
+
+</div>
+
+<div class="with-bg p-t-48">
+  <section class="main-home container">
+    <h2 class="m-t-0">Times We Used To Spend</h2>
+    <p class="lead"><em>Times We Used To Spend</em> is my monthly radio show, in which I play some records from my collection. It's hosted by <a href="https://www.mixcloud.com/TheOtherRadio/" target="_blank" rel="noopener noreferrer">The Other Radio</a>.</p>
+    <section class="grid three--column--grid list--shows">
+      {% set showlist = collections.show %}
+      {% include "components/showlist.njk" %}
+    </div>
+  </section>
+</div>
