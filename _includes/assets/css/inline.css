@@ -362,7 +362,7 @@ img {
 	}
 }
 .lead {
-	font-size: 1.2em;
+	font-size: 1.5em;
 	max-width: 50ch;
 }
 .home-section {
@@ -419,7 +419,7 @@ p + h3 {
 }
 
 .post-meta span {
-	color: #3D64AD;
+	color: #00a1e0;
 	font-weight: 600;
 }
 
