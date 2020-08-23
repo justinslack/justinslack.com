@@ -4,6 +4,7 @@ const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginPWA = require("eleventy-plugin-pwa");
+const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addLayoutAlias("posts", "layouts/post.njk");
@@ -75,6 +76,9 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("service-worker.js");
   eleventyConfig.addPassthroughCopy("feed.xml");
   eleventyConfig.addPassthroughCopy("netlify.toml");
+
+  //  Syntax highlighting
+  eleventyConfig.addPlugin(syntaxHighlight);
 
   // RSS
   
