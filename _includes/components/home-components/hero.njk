@@ -46,7 +46,7 @@
         <p class="f-1">More coming as soon as I write them</p>
       </div>
       <div>
-        {%- for post in collections.recent -%}
+        {%- for post in collections.recent | reversed -%}
         <a href="{{ post.url | url }}" class="post--card flex">
           <figure class="recent--image block">
             <img src="{{ post.data.featuredImage }}" alt="">

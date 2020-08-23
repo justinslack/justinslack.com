@@ -1,0 +1,22 @@
+---
+layout: layouts/base.njk
+section: page
+---
+<section class="container content--container single--page">
+  <h1 class="page--title">{{ title }}</h1>
+
+  <section class="two--column-50">
+    <div>
+      <p>My work lives at the intersection of design and code</p>
+      <p>At <a href="http://https://nml.co.za" target="_blank" rel="noopener noreferrer">NML</a> I lead the design and front-end team. We are responsible for all UI design, front-end builds and design system creation. Over the last few years I have put in place design operations for a range of applications, from large financial services platforms to JAMstack based static sites.</p>
+      <p></p>
+    </div>
+    <!-- <figure>
+      <img src="/static/images/justinslackportrait.JPG" alt="">
+    </figure> -->
+  </section>
+
+  <article class="textual--content">
+    {{ layoutContent | safe }}
+  </article>
+</section>

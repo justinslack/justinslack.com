@@ -46,6 +46,7 @@ h3 {
 }
 
 .featured--header {
+  color: var(--accent);
   font-family: Avenir, sans-serif;
   line-height: 1;
 }
@@ -55,6 +56,7 @@ h3 {
   text-decoration: none;
 
   h4 {
+    color: var(--accent);
     line-height: 1.2;
   }
 

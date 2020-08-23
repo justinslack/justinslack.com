@@ -6,10 +6,9 @@ section: post
 <article class="container article-head">
   <h1 class="post-title">{{ title }}</h1>
   <div class="post-meta">
-    <span>{{ show }}</span>
     <p>
       <small>
-        <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time>
+        Last updated <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time>
       </small>
     </p>
   </div>

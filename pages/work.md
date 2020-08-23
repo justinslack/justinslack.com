@@ -1,5 +1,5 @@
 ---
-layout: layouts/page.njk
+layout: layouts/work.njk
 title: Work
 tags:
   - nav
@@ -8,4 +8,4 @@ date: 2020-04-18
 permalink: /work/index.html
 ---
 
-Coming soon
+More coming soon
