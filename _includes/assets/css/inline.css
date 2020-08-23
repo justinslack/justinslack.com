@@ -403,14 +403,6 @@ img {
 	margin-top: 4rem;
 }
 
-.progress {
-	color: #585e6b;
-	font-family: monospace;
-	position: absolute;
-	right: 2rem;
-	top: 2rem;
-	writing-mode: vertical-lr;
-}
 p + h3 {
 	margin-top: 5rem;
 }
