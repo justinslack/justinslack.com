@@ -247,9 +247,9 @@ img {
 
 .main--nav ul {
 	display: flex;
-	flex-direction: column;
+	/* flex-direction: column; */
 	padding: 0;
-	margin: 0;
+	margin: 0 0 0 auto;
 	list-style: none;
 	font-family: var(--alt-font-family);
 }
