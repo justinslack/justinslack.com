@@ -120,6 +120,21 @@
   height: 270px;
 }
 
+.page-image {
+  grid-row: 1;
+
+  @include breakpoint(43.750em) {
+    grid-column: 2;
+  }
+
+  svg {
+    height: 270px;
+    max-width: 100%;
+  }
+}
+
+
+
 // Some browser resets
 
 figure {

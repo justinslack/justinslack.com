@@ -212,6 +212,10 @@ img {
 }
 
 .single--page {
+	padding: 1rem;
+}
+
+@media only screen and (min-width: 43.75em) {
 	padding: 6rem 1rem;
 }
 
