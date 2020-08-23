@@ -213,7 +213,7 @@
   transform: skewY(-10deg);
 
   &::before {
-    background: linear-gradient(to right, var(--blue), var(--accent));
+    background: rgba(0, 0, 0, 0) linear-gradient(45deg, rgb(251, 213, 41), rgb(239, 239, 57)) repeat scroll 0% 0%;
     content: "";
     height: 4px;
     left: 0;

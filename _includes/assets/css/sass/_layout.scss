@@ -6,14 +6,22 @@
 
 .two--column-50 {
   display: grid;
+  grid-template-columns: 1fr;
   grid-gap: 4rem;
-  grid-template-columns: 1fr 1fr;
+
+  @include breakpoint(43.750em) {
+    grid-template-columns: 1fr 1fr;
+  }
 }
 
 .featured--column-grid {
   align-items: start;
-  grid-template-columns: 2fr 1fr;
+  grid-template-columns: 1fr;
   grid-gap: 4rem;
+
+  @include breakpoint(43.750em) {
+    grid-template-columns: 2fr 1fr;
+  }
 }
 
 .featured--post {

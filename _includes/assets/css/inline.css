@@ -275,7 +275,7 @@ img {
 }
 
 .main--nav-link::after {
-	background: linear-gradient(to right, var(--blue), var(--accent));
+	background: rgba(0, 0, 0, 0) linear-gradient(45deg, rgb(251, 213, 41), rgb(239, 239, 57)) repeat scroll 0% 0%;
   content: "";
   display: block;
   height: 3px;
