@@ -12,7 +12,7 @@
   <meta name="theme-color" content="#ffffff">
 
   <link rel="preload" href="styles.css" as="style">
-  <link rel="preload" as="font" type="font/woff2" href="/static/fonts/SchnyderM-Demi-Web.woff2" crossorigin="anonymous">
+  <link rel="preload"  crossorigin="anonymous" as="font" type="font/woff2" href="/static/fonts/SchnyderM-Demi-Web.woff2">
 
   {% set css %}
     {% include "assets/css/inline.css" %}
@@ -20,9 +20,9 @@
   <style>{{ css | cssmin | safe }}</style>
 
   <link rel="stylesheet" type="text/css" href="/_includes/assets/css/main.css">
-
+<!-- 
   {% set js %}
     {% include "assets/js/inline.js" %}
   {% endset %}
-  <script>{{ js | jsmin | safe }}</script>
+  <script>{{ js | jsmin | safe }}</script> -->
 </head>
