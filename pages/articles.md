@@ -4,7 +4,7 @@ title: About
 tags:
   - nav
 navtitle: Articles
-date: 2020-08-17
+date: 2020-04-20
 permalink: /articles/index.html
 ---
 
