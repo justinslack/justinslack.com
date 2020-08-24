@@ -25,9 +25,7 @@ So in March, this year, two days before lockdown, I moved house and one of the t
 
 One of the things I did when I started putting them on the shelves was naturally discovering things that I haven't listened to for a long time. And also things that you haven't given enough attention to because they're new and you've perfunctorily listened to them and haven't had time to go through them properly. 
 
-While doing this I was reminded of Walter Benjamin's essay, *Unpacking my library: A Talk About Book Collection*. 
-
-So these are just some that popped out at me that I hadn't listened to for a while or ones that I think deserve some attention. So I hope you enjoy them. 
+ So these are just some that popped out at me that I hadn't listened to for a while or ones that I think deserve some attention. So I hope you enjoy them. 
 
 ### Toshifumi Hinata - Midsummer Night - Music From Memory (2019)
 [Toshifumi Hinata - Broken Belief](https://www.discogs.com/Toshifumi-Hinata-Broken-Belief/release/14142541)
@@ -285,3 +283,5 @@ records as Overmono since around 2016 or so. Breakbeat techno is their thing. Ed
 They released my favorite record of 2018 which was *Raft Living*, specifically the *Daisy Chain* track, which is an amazing break beat, techno, breaks whatever record. I got to play that at Modular last year some time at one of my (extremly) rare DJ appearances which was a lot of fun.
 
 So this track reminds me a lot of early Floating Points particularly *The Shadows* EP and I was wondering why that is and then it was of course, it's the arp. The shuffly house beats also reminded me so much of Floating Points and I couldn't quite figure out why until recently. Then of course there's this amen break that pops in and out linking it to their earlier work. It's just a great techno record.
+
+So that birngs us t the end of show four. I hope you enjoyed the rather random selection. Next time we will be delving into the owrkd of Carl Craig in particular his single releases and remixes.
