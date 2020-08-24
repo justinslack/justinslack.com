@@ -1,15 +1,15 @@
 ---
-permalink: feed.xml
+permalink: feed-show.xml
 metadata:
-  title: Justin Slack.com articles
+  title: Justin Slack.com shows
   url: https://justinslack.com
   author:
     name: Justin Slack
   feed:
-    subtitle: Articles by Justin Slack
-    filename: feed.xml
-    path: feed.xml
-    url: https://justinslack.com/feed.xml
+    subtitle: Times We Used to spend. A radio show.
+    filename: feed-show.xml
+    path: feed-show.xml
+    url: https://justinslack.com/feed-shows.xml
     id: https://justinslack.com/
 ---
 <?xml version="1.0" encoding="utf-8"?>
@@ -18,13 +18,13 @@ metadata:
   <subtitle>{{ metadata.feed.subtitle }}</subtitle>
   <link href="{{ metadata.feed.url }}" rel="self"/>
   <link href="{{ metadata.url }}"/>
-  <updated>{{ collections.posts | rssLastUpdatedDate }}</updated>
+  <updated>{{ collections.show | rssLastUpdatedDate }}</updated>
   <id>{{ metadata.feed.id }}</id>
   <author>
     <name>{{ metadata.author.name }}</name>
     <email>{{ metadata.author.email }}</email>
   </author>
-  {%- for post in collections.posts %}
+  {%- for post in collections.show %}
   {% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
   <entry>
     <title>{{ post.data.title }}</title>
