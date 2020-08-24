@@ -11,14 +11,15 @@
   <meta name="msapplication-TileColor" content="#da532c">
   <meta name="theme-color" content="#ffffff">
 
+  <link rel="preload" href="styles.css" as="style">
+  <link rel="preload" as="font" type="font/woff2" href="/static/fonts/SchnyderM-Demi-Web.woff2" crossorigin="anonymous">
+
   {% set css %}
     {% include "assets/css/inline.css" %}
   {% endset %}
   <style>{{ css | cssmin | safe }}</style>
 
   <link rel="stylesheet" type="text/css" href="/_includes/assets/css/main.css">
-
-  <link rel="preload" as="font" type="font/woff2" href="/static/fonts/SchnyderM-Demi-Web.woff2" crossorigin="anonymous">
 
   {% set js %}
     {% include "assets/js/inline.js" %}

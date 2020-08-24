@@ -17,13 +17,7 @@ tags:
   - music
 ---
 
-
-
-# Show Two - June 2020
-
-## House Nation
-
-This episode of times We Used To Spend documents early house through records from my collection from the 80s and early 90s.
+This episode of Times We Used To Spend documents early house through records from my collection from the 80s and early 90s.
 
 Special thanks to Slow Motion City for the intro music. Check out his work on [Bandcamp](https://slomocity.bandcamp.com/).
 

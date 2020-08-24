@@ -17,10 +17,7 @@ tags:
   - music
 ---
 
-
-# Show Three - July 2020
-
-## Breakbeat Science
+Music is so special. The theme for this month is drum and bass and jungle and I'll be playing some records from my collection dating from the early to mid 90s. Which is by far the best time for drum and bass and jungle. Actually the only time. I wouldn't bother with any stuff outside of this period, and I'll talk some more about that later.
 
 ### Mystic Moods - Music Is So Special - Mystic Moods (1996)
 
@@ -29,8 +26,6 @@ tags:
 <figure class="align--center internal--image">
   <img src="/static/images/shows/mysticmoods.jpg" alt="Mystic Moods" loading="lazy" >
 </figure>
-
-Music is so special. The theme for this month is drum and bass and jungle and I'll be playing some records from my collection dating from the early to mid 90s. Which is by far the best time for drum and bass and jungle. Actually the only time. I wouldn't bother with any stuff outside of this period, and I'll talk some more about that later.
 
 The track we're listening to now is unsurprisingly, *Music is so special*, it's by Mystic Moods, which was Basement Phil who ran the Basement Records and Street Beats labels. A really important figure who released all the early stuff by people like Roger Johnson, Peshay, Photek, Source Direct in their early guises like Sounds of Life.
 
