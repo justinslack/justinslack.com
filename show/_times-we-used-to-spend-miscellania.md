@@ -178,31 +178,26 @@ He's just one of those people who has a unique sound, he crosses genres, and he 
 ### John Beltran - In Static (Original Mix) - Wewillalwaysbealovesong (2019)
 [John Beltran - The Musical Storm EP](https://www.discogs.com/John-Beltran-The-Musical-Storm-EP-/release/13118707)
 
-To some extent a contemporary of Dan Curtin this is John Beltran, from his 2019 *Musical Storm* EP on the We Will Always Be A Love Song label.
+To some extent a contemporary of Dan Curtin this is John Beltran, from his 2019 *Musical Storm* EP on the We Will Always Be A Love Song label. John Beltran is from Michigan and grew up near Detroit. He released his first album in 95 on R&S, one of the greatest labels of all time, as I'm sure we all know. He followed that up with the classic *Ten Days Of Blue* on Peacefrog in 1996, which is just a wonderful album of techno and ambient tracks. My copy is absolutely battered and pretty much unplayable I've listened to it so much.
 
-panettone Belgian
+He has also released on Carl Craig's early label, Retroactive, notably the *Aquatic* EP as Open House featuring Placid Angles, which is a classic
+techno record.
 
-from Michigan clay near Detroit, he grew up near Detroit. He released his first album in 95. I think it was on RNs, one of the greatest labels of all time, as I'm sure we all know. And he followed that up with the kind of classic 10 days of blue on peace frog in 1996, which is just an amazing, wonderful album of techno ambient stuff, my copies absolutely battered.
+He too has he has a unique. A strong, strong melodic sensibility but also a kind of melancholy feeling in his tracks. If you don't know *Ten Days Of Blue* you you really want to check that out. Amazing, amazing piece of work.
 
-And
+### Miles Atmospheric - Our Future - FireScope (2019)
+[Miles Atmospheric - SkyHealer](https://www.discogs.com/Miles-Atmospheric-SkyHealer/release/13896190)
 
-pretty much unplayable I've listened
+We're listening to *Our Future* by Miles Atmospheric off the *Sky Healing* EP which came out on the Firescope label. Miles Atmospheric is a pseudonym of Miles Sagnia under which he releases more ambient stuff. He also releases house records on his own Atmospheric Existence Records with some really nice, deep house 12"s in the last 10 years or so.
 
-to it so much.
+This is just a really nice ambient track. Firescope Records mostly release techno stuff. It's owned by Steven Rutter, who founded B12 the seminal techno outfit in the early 90s. Check them out too!
 
-He was released on call Craig's early level, retroactive
+### Overmono - Le Tigre - Poly Kicks (2019)
+[Overmono - Le Tigre / Salt Mix](https://www.discogs.com/Overmono-Le-Tigre-Salt-Mix/master/1702823)-
 
-aquatic aquatic EP,
+To end Overmono with *Le Tigre* on their label Polykicks. Overmono is two brothers Tom and Ed Russell. They've been releasing
+records as overmono since around 2016 or so. Breakbeat techno is their thing. Ed Russell is also known as Tessela. And Tom Russell is also known as Truss They produce breakbeat and techno stuff in their own right.
 
-an aspie thing featuring placid angles,
+They released my favorite record of 2018 which was *Raft Living*, specifically the *Daisy Chain* track, which is an amazing break beat, techno, breaks whatever record. I got to play that at Modular last year some time at one of my (extremly) rare DJ appearances which was a lot of fun.
 
-which is
-
-the classic classic
-
-techno techno record.
-
-Again, you know, he has he has a unique sound
-
-strong, strong military. sensibility and kind of melancholy as well attached to his tracks I think the vocal sample and this has been bugging me since I got it and I think I finally realized or maybe I'm completely wrong that it's from vinyl Park he released one over a number of years ago was on RNs funny enough I think then but you know, it's I may be completely wrong. Anyway john bolton, if you don't know 10 days of blue, you you really want to check that out. Amazing, amazing piece of work.
-
+So this track reminds me a lot of early Floating Points particularly *The Shadows* EP and I was wondering why that is and then it was of course, it's the arp. The shuffly house beats also reminded me so much of Floating Points and I couldn't quite figure out why until recently. Then of course there's this amen break that pops in and out linking it to their earlier work. It's just a great techno record.
