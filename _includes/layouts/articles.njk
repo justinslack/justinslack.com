@@ -5,5 +5,18 @@ section: page
 <section class="container content--container single--page">
   <h1 class="page--title">{{ title }}</h1>
 
-  <p>List coming soon</p>
+  <div class="grid three--column--grid">
+    {%- for post in collections.posts | reverse -%}
+        <a href="{{ post.url | url }}" class="post--card flex flex--column box--shadow">
+          <figure class="article--thumb block">
+            <img src="{{ post.data.featuredImage }}" alt="">
+          </figure>
+          <div class="p-16">
+            <p class="post--type m-0">{{ post.data.type }}</p>
+            <h4 class="m-t-0 m-b-8">{{ post.data.title }}</h4>
+            <time class="recent--time" datetime="{{ post.date | machineDate }}">{{ post.date | readableDate }}</time>
+          </div>
+        </a>
+        {%- endfor -%}
+  </div>
 </section>

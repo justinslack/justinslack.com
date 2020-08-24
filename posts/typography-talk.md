@@ -4,10 +4,10 @@ summary: A recent talk covering tips for selecting and matching typefaces, the l
 date: 2020-08-23
 author: Justin Slack
 featuredImage: /static/images/posts/typography-talk.png
+type: Design, CSS
 tags:
   - posts
   - featured
-  - test two
 ---
 
 In 2012 I gave my first talk on typography on the web. Titled [Web Typography Now](https://www.meetup.com/fedsa-community/events/125756342/) it documented the evolution of type on the web and was timely as universal `@font-face` support had just landed in all the major browsers. At the same time Open Type features were gaining support via the lower level CSS properties. It was an exciting time for type enthusiasts as we saw a brave new browser world not shackled to the six or so web safe fonts.

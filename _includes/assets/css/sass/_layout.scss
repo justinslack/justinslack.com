@@ -15,8 +15,13 @@
 }
 
 .three--column--grid {
-	grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));;
+	grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
 	grid-gap: 5rem 2rem;
+}
+
+.four--column--grid {
+	grid-template-columns: repeat(auto-fit, minmax(20%, 1fr));
+	grid-gap: 2rem;
 }
 
 .flex {
@@ -312,10 +317,31 @@
   transform: skewY(10deg);
 }
 
+// Articles
+
+.article--thumb {
+  height: 150px;
+  overflow: hidden;
+  
+  img {
+    object-fit: cover;
+  }
+
+}
+
 
 
 // Some browser resets
 
 figure {
   margin: 0;
+}
+
+.box--shadow {
+  box-shadow: 0 2px 50px rgba(0,0,0,0.1);
+
+  &:hover {
+    box-shadow: 0 2px 50px rgba(0,0,0,0.19);
+  }
+
 }

@@ -1,6 +1,6 @@
 ---
 layout: layouts/articles.njk
-title: About
+title: Articles
 tags:
   - nav
 navtitle: Articles
