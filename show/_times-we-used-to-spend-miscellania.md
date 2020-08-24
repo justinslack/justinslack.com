@@ -25,7 +25,7 @@ So in March, this year, two days before lockdown, I moved house and one of the t
 
 One of the things I did when I started putting them on the shelves was naturally discovering things that I haven't listened to for a long time. And also things that you haven't given enough attention to because they're new and you've perfunctorily listened to them and haven't had time to go through them properly. 
 
- So these are just some that popped out at me that I hadn't listened to for a while or ones that I think deserve some attention. So I hope you enjoy them. 
+So these are just some that popped out at me that I hadn't listened to for a while or ones that I think deserve some attention. So I hope you enjoy them. 
 
 ### Toshifumi Hinata - Midsummer Night - Music From Memory (2019)
 [Toshifumi Hinata - Broken Belief](https://www.discogs.com/Toshifumi-Hinata-Broken-Belief/release/14142541)
