@@ -6,8 +6,8 @@ metaDesc: This episode of Times We Used To Spend documents early house through r
 author: Justin Slack
 show: Episode Four
 subtitle: Miscellania
-# featuredImage: /static/images/shows/26062020TimesWeUsedToSpendHouseNationMain.jpg
-socialImage: /static/images/shows/26062020TimesWeUsedToSpendHouseNationMain.jpg
+featuredImage: /static/images/shows/misc/220320TimesWeUsedToSpendMiscellania-small.jpg
+socialImage: /static/images/shows/misc/220320TimesWeUsedToSpendMiscellania-small.jpg
 alt: Times we used to spend episode two
 showlink: https://www.mixcloud.com/TheOtherRadio/playlists/times-we-used-to-spend/
 section: show
