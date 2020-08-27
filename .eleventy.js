@@ -76,6 +76,8 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("service-worker.js");
   eleventyConfig.addPassthroughCopy("feed.xml");
   eleventyConfig.addPassthroughCopy("netlify.toml");
+  eleventyConfig.addPassthroughCopy("robots.txt");
+  eleventyConfig.addPassthroughCopy("sitemap.xml");
 
   //  Syntax highlighting
   eleventyConfig.addPlugin(syntaxHighlight);
