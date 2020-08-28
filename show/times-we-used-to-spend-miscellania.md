@@ -284,4 +284,4 @@ They released my favorite record of 2018 which was *Raft Living*, specifically t
 
 So this track reminds me a lot of early Floating Points particularly *The Shadows* EP and I was wondering why that is and then it was of course, it's the arp. The shuffly house beats also reminded me so much of Floating Points and I couldn't quite figure out why until recently. Then of course there's this amen break that pops in and out linking it to their earlier work. It's just a great techno record.
 
-So that birngs us t the end of show four. I hope you enjoyed the rather random selection. Next time we will be delving into the owrkd of Carl Craig in particular his single releases and remixes.
+So that birngs us to the end of show four. I hope you enjoyed the rather random selection. Next time we will be delving into the owrkd of Carl Craig in particular his single releases and remixes.
