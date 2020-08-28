@@ -275,4 +275,4 @@ records as Overmono since around 2016 or so. Breakbeat techno is their thing. Ed
 
 **Transcript:** So this track reminds me a lot of early Floating Points particularly [*The Shadows*](https://www.discogs.com/Floating-Points-Shadows-EP/release/3239980) EP and I was wondering why that is and then it was of course, it's the arp. The shuffly house beats also reminded me so much of Floating Points and I couldn't quite figure out why until recently. Then of course there's this amen break that pops in and out linking it to their earlier work. It's just a great techno record.
 
-**Transcript:** So that brings us to the end of show four. I hope you enjoyed the rather random selection. Next time we will be delving into the world of Carl Craig in particular his single releases and remixes.
+**Transcript:** So that brings us to the end of show four. I hope you enjoyed the rather random selection. Next time we will be delving into the world of Carl Craig, in particular his single releases and remixes.
