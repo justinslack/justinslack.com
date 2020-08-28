@@ -9,7 +9,7 @@ subtitle: Miscellania
 featuredImage: /static/images/shows/misc/220320TimesWeUsedToSpendMiscellania-small.jpg
 socialImage: /static/images/shows/misc/220320TimesWeUsedToSpendMiscellania-small.jpg
 alt: Times we used to spend episode two
-showlink: https://www.mixcloud.com/TheOtherRadio/playlists/times-we-used-to-spend/
+showlink: https://www.mixcloud.com/TheOtherRadio/times-we-used-to-spend-miscellania-270820/
 section: show
 number: 4
 tags:
