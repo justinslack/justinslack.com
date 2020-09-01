@@ -287,7 +287,7 @@ img {
   transition: transform 250ms ease-in-out;
 }
 
-.main--nav-link[data-current="current item"], .main--nav-link:hover {
+.main--nav-link[data-current="current item"], .main--nav-link:hover, [data-current="post"] a[href="*articles"] {
   color: var(--accent);
 }
 
