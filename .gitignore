@@ -8,3 +8,4 @@ node_modules
 tmp
 
 .grunt
+static/images/shows/.DS_Store
