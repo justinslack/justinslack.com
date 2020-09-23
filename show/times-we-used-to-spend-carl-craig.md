@@ -7,8 +7,8 @@ metaDesc: This episode of Times We Used To Spend documents early house through r
 author: Justin Slack
 show: Episode Five
 subtitle: Carl Craig
-featuredImage: /static/images/shows/misc/TimesWeUsedToSpendCarlCraig.jpg
-socialImage: /static/images/shows/misc/TimesWeUsedToSpendCarlCraig.jpg
+featuredImage: /static/images/shows/TimesWeUsedToSpendCarlCraig.jpg
+socialImage: /static/images/shows/TimesWeUsedToSpendCarlCraig.jpg
 alt: Times we used to spend episode two
 showlink: https://www.mixcloud.com/TheOtherRadio/
 section: show
