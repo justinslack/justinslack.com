@@ -5,7 +5,7 @@ date: 2020-09-22
 
 metaDesc: This episode of Times We Used To Spend documents early house through records from my collection from the 80s and early 90s.
 author: Justin Slack
-show: Episode Four
+show: Episode Five
 subtitle: Carl Craig
 featuredImage: /static/images/shows/misc/220320TimesWeUsedToSpendMiscellania-small.jpg
 socialImage: /static/images/shows/misc/220320TimesWeUsedToSpendMiscellania-small.jpg
