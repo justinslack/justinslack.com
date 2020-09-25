@@ -3,7 +3,7 @@ title: Times We Used to Spend - Carl Craig
 summary: A journey through the music of Carl Craig
 date: 2020-09-22
 
-metaDesc: This episode of Times We Used To Spend documents early house through records from my collection from the 80s and early 90s.
+metaDesc: This episode of Times We Used To Spend is dedicated to Carl Craig.
 author: Justin Slack
 show: Episode Five
 subtitle: Carl Craig
