@@ -1,0 +1,8 @@
+---
+layout: layouts/page.njk
+title: Offline
+date: 2020-09-25
+permalink: /offline/index.html
+---
+
+Coming soon

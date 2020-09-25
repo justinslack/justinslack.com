@@ -23,10 +23,9 @@
   },
   "homepage": "https://justinslack.com",
   "devDependencies": {
-    "@11ty/eleventy": "^0.9.0",
+    "@11ty/eleventy": "^0.11.0",
     "@11ty/eleventy-plugin-rss": "^1.0.7",
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1",
-    "eleventy-plugin-pwa": "^1.0.8",
     "gulp": "^4.0.0",
     "gulp-concat": "^2.6.1",
     "gulp-sass": "^4.0.1",
