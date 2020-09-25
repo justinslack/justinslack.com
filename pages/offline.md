@@ -5,4 +5,4 @@ date: 2020-09-25
 permalink: /offline/index.html
 ---
 
-Coming soon
+Site offline. You can still visit some pages via the navigation menu.
