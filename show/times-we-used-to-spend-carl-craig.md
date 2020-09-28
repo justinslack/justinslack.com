@@ -10,7 +10,7 @@ subtitle: Carl Craig
 featuredImage: /static/images/shows/TimesWeUsedToSpendCarlCraig.jpg
 socialImage: /static/images/shows/TimesWeUsedToSpendCarlCraig.jpg
 alt: Times we used to spend episode two
-showlink: https://www.mixcloud.com/TheOtherRadio/
+showlink: https://www.mixcloud.com/TheOtherRadio/times-we-used-to-spend-carl-craig-250920/
 section: show
 number: 5
 tags:
