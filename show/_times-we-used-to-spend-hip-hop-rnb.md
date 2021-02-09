@@ -1,17 +1,17 @@
 ---
-title: Times We Used to Spend - Miscellania Two
-summary:  A fairly haphazard dive into techno, breakbeat, bass and jungle. Rave tune thrown in for good measure.
-date: 2020-11-22
-metaDesc:  A fairly haphazard dive into techno, breakbeat, bass and jungle. Rave tune thrown in for good measure.
+title: Times We Used to Spend - 90s hip hop and RnB
+summary:  
+date: 2021-02-09
+metaDesc:  
 author: Justin Slack
-show: Episode Nine
-subtitle: What have you
+show: Episode Ten
+subtitle: 
 featuredImage: /static/images/shows/TimesWeUsedToSpendCarlCraig.jpg
 socialImage: /static/images/shows/TimesWeUsedToSpendCarlCraig.jpg
-alt: Times we used to spend episode eight
+alt: Times we used to spend episode ten
 showlink: https://www.mixcloud.com/TheOtherRadio/times-we-used-to-spend-miscellania-two-210121/
 section: show
-number: 9
+number: 10
 tags:
   - radio
   - music
