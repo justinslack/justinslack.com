@@ -1,7 +1,7 @@
 ---
 title: Times We Used to Spend - The Gel
 summary: An actual mix! After a fashion.
-date: 2021-03-20
+date: 2021-03-26
 metaDesc: Times We Used to Spend - The Gel. An actual mix! After a fashion.
 author: Justin Slack
 show: Episode Eleven
