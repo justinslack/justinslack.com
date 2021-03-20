@@ -193,6 +193,20 @@
 
 }
 
+.organisation {
+  color: var(--blue);
+  font-weight: 600;
+
+  &::after {
+    content: " - ";
+  }
+
+}
+
+time {
+  color: var(--blue);
+}
+
 .fod-logo {
   width: 145px;
   height: auto;
