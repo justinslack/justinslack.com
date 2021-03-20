@@ -226,12 +226,14 @@ img {
 .main-header {
 	align-items: center;
 	display: flex;
+	flex-wrap: wrap;
 }
 .home-link {
 	align-items: center;
 	border: 4px solid var(--blue);
 	color: var(--blue);
 	display: flex;
+	flex-shrink: 0;
 	font-size: 1.2em;
 	font-weight: 650;
 	height: 60px;
@@ -240,6 +242,7 @@ img {
 	text-decoration: none;
 	width: 60px;
 }
+
 .home-link:hover {
 	background-color:rgb(61, 104, 150);
 	color: white;
@@ -250,7 +253,7 @@ img {
 .main--nav {
 	display: flex;
 	justify-content: space-between;
-	width: 100%;
+	margin-left: auto;
 }
 
 .main--nav ul {
