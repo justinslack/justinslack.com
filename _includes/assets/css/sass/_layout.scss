@@ -203,7 +203,9 @@
 }
 
 .page-image {
+  display: flex;
   grid-row: 1;
+  justify-content: center;
 
   @include breakpoint(43.750em) {
     grid-column: 2;
