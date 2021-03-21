@@ -1,6 +1,6 @@
 ---
 layout: layouts/talks-and-workshops.njk
-title: Talks and workshops
+title: Talks & Workshops
 tags:
   - nav
 navtitle: Talks and workshops
