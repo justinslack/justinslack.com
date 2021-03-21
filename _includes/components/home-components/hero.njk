@@ -42,17 +42,14 @@
     </article>
     <div class="recent--posts grid">
       <h3 class="recent--header m-t-0">Recent articles</h3>
-      <div class="empty--posts with-bg">
-        <p class="f-1">More coming as soon as I write them</p>
-      </div>
       <div>
         {%- for post in collections.recent -%}
         <a href="{{ post.url | url }}" class="post--card flex">
-          <figure class="recent--image block">
+          <!-- <figure class="recent--image block">
             <img src="{{ post.data.featuredImage }}" alt="">
-          </figure>
+          </figure> -->
           <div>
-            <p class="post--type">{{ post.data.type }}</p>
+            <!-- <p class="post--type">{{ post.data.type }}</p> -->
             <h4 class="m-t-0">{{ post.data.title }}</h4>
             <time class="recent--time" datetime="{{ post.date | machineDate }}">{{ post.date | readableDate }}</time>
           </div>

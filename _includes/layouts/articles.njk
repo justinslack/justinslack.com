@@ -6,10 +6,10 @@ section: page
   <h1 class="page--title">{{ title }}</h1>
 
   <div class="grid three--column--grid">
-    {%- for post in collections.posts -%}
+    {%- for post in collections.posts | reverse -%}
         <a href="{{ post.url | url }}" class="post--card flex flex--column box--shadow">
           <figure class="article--thumb block">
-            <img src="{{ post.data.featuredImage }}" alt="">
+            <img src="{{ post.data.featuredImage }}" alt="{{ post.data.alt }}">
           </figure>
           <div class="p-16">
             <p class="post--type m-0">{{ post.data.type }}</p>
