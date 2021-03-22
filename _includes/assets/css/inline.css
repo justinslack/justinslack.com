@@ -261,7 +261,9 @@ img {
 	padding: 0;
 	margin: 0 0 0 auto;
 	list-style: none;
+	position: relative;
 	font-family: var(--alt-font-family);
+	z-index: 3;
 }
 
 .main--nav ul:first-child {
