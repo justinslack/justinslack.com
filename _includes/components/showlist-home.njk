@@ -1,0 +1,13 @@
+{% set latest_posts = collections.show | reverse%}
+      {% for post in latest_posts.slice(0,3) %}
+<article class="flex flex--column show--card">
+	<a href="{{ post.url | url }}" class="show--card-link">
+		<span class="show--card-number">{{ post.data.number }}</span>
+		<h3 class="show--card-name">
+			{{ post.data.show }}
+			<span class="sub--title">{{ post.data.subtitle }}</span>
+		</h3>
+		<p class="show--summary">{{ post.data.summary }}</p>
+	</a>
+</article>
+{% endfor %}
