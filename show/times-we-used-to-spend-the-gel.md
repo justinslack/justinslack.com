@@ -19,9 +19,9 @@ tags:
 
 # Show Eleven - March 2021
 
-Live 26 March 2021 
 
-<!-- Hey, Other Radio people. It's show eleven.
+
+Hey, Other Radio people. It's show eleven.
 
 **Disclaimer:** This was 26 years ago. My memories may be hazy.
 
@@ -49,43 +49,43 @@ My show has always been just playing records from the collection and talking abo
 
 ## Tracklist
 
-- Skylab - Next []() 
-- LFO - Helen []()
-- Biosphere ‎– Hyperborea []()
-- Biosphere - The Seal and the Hydrophone []()
-- Huerco S. ‎– Hiromi’s Theme []()
-- Subsurfing - The Number Readers []()
-- Synectics - Natural []()
-- Global Communication - Incidental Harmony []()
-- Jon Anderson - Amor Real []()
-- Atypic ‎– Henkhisesuin []()
-- Nav Katze- Wild Horses []()
-- Jello - Neph (Autechre Ultramatique 6 Mix) []()
-- Proem - Deep Like Airline Failure []()
-- Chapterhouse - Delta Phase []()
-- Being - Ayemooth []()
-- Julianna Barwick - Nod ft. Nosaj Thing []()
-- Romeo Poiroir - Hotel Nota []()
-- Sun Electric - O'Locco (Hyperfloral Mix) []()
-- A New Line (Related) -  After A Short Illness []()
-- UD - Pankow []()
-- Shielding ‎– Sensing Dreams []()
-- A New Line (Related) - Dancing on Soft Borders []()
-- Basic Channel - Radiance II []()
-- A Guy Called Gerald - Touch Me []()
-- Balil - Nort Route (R&S Remix) []()
-- Spacetime Continuum ‎– Only One Sky []()
-- John Beltran - Soul Sketching []()
-- The Higher Intelligence Agency - SOlid Motion (Black Hole Mix) []()
-- The Higher Intelligence Agency - Speech 3 (Conoid Tone Reformed By Autechre) []()
-- Orbital - Semi-detached []()
-- Leif - Rosa []()
-- Udmo - Isolation Theory []()
-- Melquiades - Taylor Rd []()
-- Albrecht La’Brooy - Afternoon Carafe []()
+- Skylab - Next 
+- LFO - Helen
+- Biosphere ‎– Hyperborea
+- Biosphere - The Seal and the Hydrophone
+- Huerco S. ‎– Hiromi’s Theme
+- Subsurfing - The Number Readers
+- Synectics - Natural
+- Global Communication - Incidental Harmony
+- Jon Anderson - Amor Real
+- Atypic ‎– Henkhisesuin
+- Nav Katze- Wild Horses
+- Jello - Neph (Autechre Ultramatique 6 Mix)
+- Proem - Deep Like Airline Failure
+- Chapterhouse - Delta Phase
+- Being - Ayemooth
+- Julianna Barwick - Nod ft. Nosaj Thing
+- Romeo Poiroir - Hotel Nota
+- Sun Electric - O'Locco (Hyperfloral Mix)
+- A New Line (Related) -  After A Short Illness
+- UD - Pankow
+- Shielding ‎– Sensing Dreams
+- A New Line (Related) - Dancing on Soft Borders
+- Basic Channel - Radiance II
+- A Guy Called Gerald - Touch Me
+- Balil - Nort Route (R&S Remix)
+- Spacetime Continuum ‎– Only One Sky
+- John Beltran - Soul Sketching
+- The Higher Intelligence Agency - SOlid Motion (Black Hole Mix)
+- The Higher Intelligence Agency - Speech 3 (Conoid Tone Reformed By Autechre)
+- Orbital - Semi-detached
+- Leif - Rosa
+- Udmo - Isolation Theory
+- Melquiades - Taylor Rd
+- Albrecht La’Brooy - Afternoon Carafe
 
 
- -->
+
 
 
 
