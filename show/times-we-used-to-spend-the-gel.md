@@ -9,7 +9,7 @@ subtitle: The Gel
 featuredImage: /static/images/shows/thegel/TimesWeUsedToSpendTheGel.jpg
 socialImage: /static/images/shows/thegel/TimesWeUsedToSpendTheGel.jpg
 alt: Times we used to spend episode eleven
-showlink: https://www.mixcloud.com/TheOtherRadio/
+showlink: https://www.mixcloud.com/TheOtherRadio/TheOtherRadio/times-we-used-to-spend-the-gel-260321/
 section: show
 number: 11
 tags:
