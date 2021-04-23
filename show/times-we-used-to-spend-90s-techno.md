@@ -9,7 +9,7 @@ subtitle: 90s techno
 featuredImage: /static/images/shows/90stechno/TimesWeUsedToSpend90stechno.jpg
 socialImage: /static/images/shows/90stechno/TimesWeUsedToSpend90stechno.jpg
 alt: Times we used to spend episode eleven
-showlink: https://www.mixcloud.com/TheOtherRadio/
+showlink: https://www.mixcloud.com/TheOtherRadio/times-we-used-to-spend-90s-techno-230421/
 section: show
 number: 12
 tags:
