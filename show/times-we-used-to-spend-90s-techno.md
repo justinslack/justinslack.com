@@ -21,7 +21,7 @@ tags:
 
 
 
-Hello again, and welcome to show 12 of The Times We Used To Spend, which makes a full calendar year. I can't believe it has gone by so quickly. First off, I just want to thank Aaron, Mat and Johan of all things The Other for giving us this platform and, in particular, for allowing me to ramble on at great length about the music that I like and have collected over the years.
+Hello again, and welcome to show 12 of The Times We Used To Spend, which makes a full calendar year. I can't believe it has gone by so quickly. First off, I just want to thank Aaron, Mat and Johan of all things [The Other](https://theother.co.za/) for giving us this platform and, in particular, for allowing me to ramble on at great length about the music that I like and have collected over the years.
 
 So the theme for this show is nineties techno. As usual, I have just pulled out a bunch of records, and I'm going to talk a little bit about what they mean to me and have done over the years. 
 
