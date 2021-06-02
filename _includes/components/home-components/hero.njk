@@ -31,7 +31,7 @@
       {%- for post in collections.featured -%}
         <a href="{{ post.url | url }}" class="featured--link">
           <figure class="featured--image">
-            <img src="{{ post.data.featuredImage }}" alt="">
+            <img src="{{ post.data.featuredImage }}" alt="{{ post.data.title }}" width="732" height="326">
           </figure>
           <div class="featured--text">
             <h2 class="featured--header m-t-0">{{ post.data.title }}</h2>

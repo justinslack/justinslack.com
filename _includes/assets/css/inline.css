@@ -207,6 +207,7 @@ p a:hover {
 	background-color: #3D64AD;
 }
 img {
+	height: auto;
 	max-width: 100%;
 }
 .container {
