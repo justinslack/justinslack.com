@@ -12,16 +12,17 @@
   <meta name="theme-color" content="#ffffff">
 
   <meta name="google-site-verification" content="b51Zs_VHq8ALy7PS0Nf5rGQafLOqOU752SIQDojU6ng" />
-
+  <link href="/static/fonts/SchnyderM-Demi-Web.woff2" rel="preload" as="font" type="font/woff2" crossorigin>
+  <link href="/_includes/assets/css/main.css" rel="stylesheet preload" as="style">
   {% set css %}
     {% include "assets/css/inline.css" %}
   {% endset %}
   <style>{{ css | cssmin | safe }}</style>
 
-  <link href="/static/fonts/SchnyderM-Demi-Web.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous">
-  <link href="/_includes/assets/css/main.css" rel="stylesheet preload" as="style" onload="this.rel='stylesheet'">
 
-  <!-- <link rel="stylesheet" type="text/css" href="/_includes/assets/css/main.css"> -->
+
+  
+  <link rel="stylesheet" type="text/css" href="/_includes/assets/css/main.css">
 
   <!-- {% set js %}
     {% include "assets/js/inline.js" %}
