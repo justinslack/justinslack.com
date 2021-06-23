@@ -6,8 +6,8 @@ metaDesc:  A random selection of records that have kept me company in the last m
 author: Justin Slack
 show: Episode Fourteen
 subtitle: This and that
-featuredImage: /static/images/shows/TimesWeUsedToSpendCarlCraig.jpg
-socialImage: /static/images/shows/TimesWeUsedToSpendCarlCraig.jpg
+featuredImage: /static/images/shows/miscellania/miscellania-three.png
+socialImage: /static/images/shows/miscellania/miscellania-three.png
 alt: Times we used to spend episode eight
 showlink: https://www.mixcloud.com/TheOtherRadio/
 section: show
