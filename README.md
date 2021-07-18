@@ -1,4 +1,4 @@
-# Front-end conference web site
+# Personal website
 
 ## Local development
 
