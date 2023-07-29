@@ -28,7 +28,7 @@
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.6",
     "gulp": "^4.0.0",
     "gulp-concat": "^2.6.1",
-    "gulp-sass": "^4.0.1",
+    "gulp-sass": "^5.1.0",
     "gulp-uglify": "^3.0.1",
     "gulp-watch": "^5.0.1",
     "luxon": "^1.21.1",
@@ -38,6 +38,7 @@
   "dependencies": {
     "clean-css": "^5.0.1",
     "html-minifier": "^4.0.0",
+    "sass": "^1.62.0",
     "uglify-es": "^3.3.9"
   }
 }
